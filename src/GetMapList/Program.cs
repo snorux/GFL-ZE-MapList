@@ -1,9 +1,13 @@
-﻿using Renci.SshNet;
+﻿using GetMapList.Models;
+using Newtonsoft.Json;
+using Renci.SshNet;
 
 namespace GetMapList
 {
     public class Program
     {
+        const long MaxSize = 157286400;
+
         static void Main(string[] args)
         {
             // We standardize the args
@@ -25,11 +29,24 @@ namespace GetMapList
             memoryStream.Seek(0, SeekOrigin.Begin);
             string[] output = streamReader.ReadToEnd().Split("\n").Where(x => !x.StartsWith("//")).OrderBy(x => x).ToArray();
 
+            List<MapModel> maps = new();
             Parallel.ForEach(output, map =>
             {
                 var attributes = client.GetAttributes($"./maps/{map}.bsp");
-                Console.WriteLine($"{map} - {attributes.Size} - {Environment.CurrentManagedThreadId}");
+
+                var mapModel = new MapModel();
+                maps.Add(new MapModel()
+                {
+                    MapName = map,
+                    IsMoreThan150MB = attributes.Size >= MaxSize,
+                    FileSize = attributes.Size,
+                });
             });
+
+            client.Dispose();
+
+            maps = maps.OrderBy(x => x.MapName).ToList();
+            File.WriteAllText("maps.json", JsonConvert.SerializeObject(maps, Formatting.Indented));
         }
     }
 }
