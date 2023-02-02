@@ -15,6 +15,8 @@ namespace GetMapList
             // 1 - Port
             // 2 - Username
             // 3 - Key
+
+            Console.WriteLine(File.ReadAllText(args[3]));
             var privateKey = new PrivateKeyFile(args[3]);
             using var client = new SftpClient(args[0], Int32.Parse(args[1]), args[2], new[] { privateKey });
             client.Connect();
