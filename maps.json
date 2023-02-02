@@ -1,0 +1,2372 @@
+[
+  {
+    "MapName": "de_dust2",
+    "IsMoreThan150MB": true,
+    "FileSize": 325735952
+  },
+  {
+    "MapName": "dz_blacksite",
+    "IsMoreThan150MB": true,
+    "FileSize": 182885372
+  },
+  {
+    "MapName": "dz_sirocco",
+    "IsMoreThan150MB": true,
+    "FileSize": 227565348
+  },
+  {
+    "MapName": "ze_20_seconds_v6",
+    "IsMoreThan150MB": false,
+    "FileSize": 13707441
+  },
+  {
+    "MapName": "ze_2012_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 88356559
+  },
+  {
+    "MapName": "ze_2021_xmas_world",
+    "IsMoreThan150MB": false,
+    "FileSize": 119400078
+  },
+  {
+    "MapName": "ze_30_seconds__b21_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 24571406
+  },
+  {
+    "MapName": "ze_666_crazy_escape_v2_4",
+    "IsMoreThan150MB": false,
+    "FileSize": 75489131
+  },
+  {
+    "MapName": "ze_8bit_csgo3",
+    "IsMoreThan150MB": false,
+    "FileSize": 147944663
+  },
+  {
+    "MapName": "ze_A_E_S_T_H_E_T_I_C_v1_1",
+    "IsMoreThan150MB": false,
+    "FileSize": 82705370
+  },
+  {
+    "MapName": "ze_abandoned_industry_va2",
+    "IsMoreThan150MB": false,
+    "FileSize": 70990238
+  },
+  {
+    "MapName": "ze_abandoned_project_v1_2_csgo",
+    "IsMoreThan150MB": false,
+    "FileSize": 155809795
+  },
+  {
+    "MapName": "ze_aepp_nano_grid2_v1h",
+    "IsMoreThan150MB": false,
+    "FileSize": 38197941
+  },
+  {
+    "MapName": "ze_alchemy_b7",
+    "IsMoreThan150MB": false,
+    "FileSize": 113419544
+  },
+  {
+    "MapName": "ze_ALIEN_mountain_escape_p3_fix",
+    "IsMoreThan150MB": false,
+    "FileSize": 16657452
+  },
+  {
+    "MapName": "ze_alien_shooter_gp1_3",
+    "IsMoreThan150MB": false,
+    "FileSize": 28801372
+  },
+  {
+    "MapName": "ze_alien_vs_predator_v6go_fix",
+    "IsMoreThan150MB": false,
+    "FileSize": 124589141
+  },
+  {
+    "MapName": "ze_amalgamation_v1_1",
+    "IsMoreThan150MB": false,
+    "FileSize": 153559051
+  },
+  {
+    "MapName": "ze_Ancient_wrath_r4",
+    "IsMoreThan150MB": false,
+    "FileSize": 129362862
+  },
+  {
+    "MapName": "ze_Aooka_v3_t6",
+    "IsMoreThan150MB": false,
+    "FileSize": 120891404
+  },
+  {
+    "MapName": "ze_aot_trost_v6",
+    "IsMoreThan150MB": false,
+    "FileSize": 145159058
+  },
+  {
+    "MapName": "ze_ApertureScience_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 45433166
+  },
+  {
+    "MapName": "ze_apocatastasis_v1_2",
+    "IsMoreThan150MB": false,
+    "FileSize": 30401755
+  },
+  {
+    "MapName": "ze_Apollo_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 40019003
+  },
+  {
+    "MapName": "ze_aragami_v1_1",
+    "IsMoreThan150MB": false,
+    "FileSize": 109195830
+  },
+  {
+    "MapName": "ze_arcade_parade_b6",
+    "IsMoreThan150MB": false,
+    "FileSize": 21372928
+  },
+  {
+    "MapName": "ze_arctic_escape_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 43570085
+  },
+  {
+    "MapName": "ze_artika_base_v1_4",
+    "IsMoreThan150MB": false,
+    "FileSize": 99528516
+  },
+  {
+    "MapName": "ze_ashen_keep_p",
+    "IsMoreThan150MB": false,
+    "FileSize": 147440199
+  },
+  {
+    "MapName": "ze_asiangirl_mm11el4nu4cp2io1yv7_r_v6_3_1",
+    "IsMoreThan150MB": false,
+    "FileSize": 145225448
+  },
+  {
+    "MapName": "ze_atix_apocalypse_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 93521134
+  },
+  {
+    "MapName": "ze_ATIX_panic_b3t_p",
+    "IsMoreThan150MB": false,
+    "FileSize": 26214556
+  },
+  {
+    "MapName": "ze_atix_panic_v1",
+    "IsMoreThan150MB": false,
+    "FileSize": 87864043
+  },
+  {
+    "MapName": "ze_atos_v2_3",
+    "IsMoreThan150MB": false,
+    "FileSize": 146792009
+  },
+  {
+    "MapName": "ze_aztec_temple_p",
+    "IsMoreThan150MB": false,
+    "FileSize": 27670623
+  },
+  {
+    "MapName": "ze_aztecnoob_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 29650258
+  },
+  {
+    "MapName": "ze_babylon_v1",
+    "IsMoreThan150MB": false,
+    "FileSize": 19873294
+  },
+  {
+    "MapName": "ze_backrooms_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 75633629
+  },
+  {
+    "MapName": "ze_barrage_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 96314284
+  },
+  {
+    "MapName": "ze_Bathroom_v2_5",
+    "IsMoreThan150MB": false,
+    "FileSize": 109800099
+  },
+  {
+    "MapName": "ze_best_korea_v1",
+    "IsMoreThan150MB": false,
+    "FileSize": 153612415
+  },
+  {
+    "MapName": "ze_Bible_Adventure_OT_v1_5",
+    "IsMoreThan150MB": false,
+    "FileSize": 117839468
+  },
+  {
+    "MapName": "ze_bigfoot_escapeica_v3_4",
+    "IsMoreThan150MB": false,
+    "FileSize": 91028382
+  },
+  {
+    "MapName": "ze_biohazard_manor_004_p4",
+    "IsMoreThan150MB": false,
+    "FileSize": 135625284
+  },
+  {
+    "MapName": "ze_biohazard2_rpd_004_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 113247697
+  },
+  {
+    "MapName": "ze_biohazard2_sewer_j2_004",
+    "IsMoreThan150MB": false,
+    "FileSize": 110401716
+  },
+  {
+    "MapName": "ze_bioshock_v6_2_csgo7",
+    "IsMoreThan150MB": false,
+    "FileSize": 155649344
+  },
+  {
+    "MapName": "ze_bisounours_party_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 75692122
+  },
+  {
+    "MapName": "ze_blackmesa_remix_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 115038621
+  },
+  {
+    "MapName": "ze_blue_magic_castle_v3_1",
+    "IsMoreThan150MB": false,
+    "FileSize": 146652302
+  },
+  {
+    "MapName": "ze_blue_zenith_v0_2",
+    "IsMoreThan150MB": false,
+    "FileSize": 57928729
+  },
+  {
+    "MapName": "ze_boacceho_p4",
+    "IsMoreThan150MB": false,
+    "FileSize": 17919822
+  },
+  {
+    "MapName": "ze_boatescape_extendido_p4",
+    "IsMoreThan150MB": false,
+    "FileSize": 15538620
+  },
+  {
+    "MapName": "ze_boatescape101_p",
+    "IsMoreThan150MB": false,
+    "FileSize": 10765638
+  },
+  {
+    "MapName": "ze_BoatEscapeX_b8",
+    "IsMoreThan150MB": false,
+    "FileSize": 99595499
+  },
+  {
+    "MapName": "ze_boredom_p",
+    "IsMoreThan150MB": false,
+    "FileSize": 155056828
+  },
+  {
+    "MapName": "ze_bp-infested-prison_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 41466875
+  },
+  {
+    "MapName": "ze_Breakable_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 63059801
+  },
+  {
+    "MapName": "ze_breezy_v6",
+    "IsMoreThan150MB": false,
+    "FileSize": 152179280
+  },
+  {
+    "MapName": "ze_bulhufas_a1_1",
+    "IsMoreThan150MB": false,
+    "FileSize": 83439916
+  },
+  {
+    "MapName": "ze_cancer_gopnik_escape_v8",
+    "IsMoreThan150MB": false,
+    "FileSize": 111728593
+  },
+  {
+    "MapName": "ze_candy_star_a3",
+    "IsMoreThan150MB": false,
+    "FileSize": 40288840
+  },
+  {
+    "MapName": "ze_castle_bridge_v1_4",
+    "IsMoreThan150MB": false,
+    "FileSize": 112733926
+  },
+  {
+    "MapName": "ze_castlevania_64_v1_3_b9_go",
+    "IsMoreThan150MB": false,
+    "FileSize": 132570200
+  },
+  {
+    "MapName": "ze_castlevania_p1_7",
+    "IsMoreThan150MB": false,
+    "FileSize": 126919939
+  },
+  {
+    "MapName": "ze_ccc_floator_mislands_timantetrix_v2",
+    "IsMoreThan150MB": false,
+    "FileSize": 99356955
+  },
+  {
+    "MapName": "ze_ccc_toastersand_v2",
+    "IsMoreThan150MB": false,
+    "FileSize": 60324152
+  },
+  {
+    "MapName": "ze_chaos_v7_7",
+    "IsMoreThan150MB": false,
+    "FileSize": 131637745
+  },
+  {
+    "MapName": "ze_check_b1_1f",
+    "IsMoreThan150MB": false,
+    "FileSize": 120428749
+  },
+  {
+    "MapName": "ze_Chicken_Lords_Tower_ig1",
+    "IsMoreThan150MB": false,
+    "FileSize": 17696674
+  },
+  {
+    "MapName": "ze_chicken_ranch_v2_2",
+    "IsMoreThan150MB": false,
+    "FileSize": 143776951
+  },
+  {
+    "MapName": "ze_christmas_infection_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 133620151
+  },
+  {
+    "MapName": "ze_chronus_a1",
+    "IsMoreThan150MB": false,
+    "FileSize": 96508648
+  },
+  {
+    "MapName": "ze_coastalcity_b10",
+    "IsMoreThan150MB": false,
+    "FileSize": 139409028
+  },
+  {
+    "MapName": "ze_collective_v1_9",
+    "IsMoreThan150MB": false,
+    "FileSize": 154586008
+  },
+  {
+    "MapName": "ze_colorlicouspilar_p4",
+    "IsMoreThan150MB": false,
+    "FileSize": 11335522
+  },
+  {
+    "MapName": "ze_colors_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 49649464
+  },
+  {
+    "MapName": "ze_complex_va3",
+    "IsMoreThan150MB": false,
+    "FileSize": 66841260
+  },
+  {
+    "MapName": "ze_core_v2b",
+    "IsMoreThan150MB": false,
+    "FileSize": 124979812
+  },
+  {
+    "MapName": "ze_crashbandicoot_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 124456623
+  },
+  {
+    "MapName": "ze_crazy_escape_v6_1",
+    "IsMoreThan150MB": false,
+    "FileSize": 154855126
+  },
+  {
+    "MapName": "ze_crazykart_v4",
+    "IsMoreThan150MB": false,
+    "FileSize": 152457061
+  },
+  {
+    "MapName": "ze_crypt_v1_4",
+    "IsMoreThan150MB": false,
+    "FileSize": 58467727
+  },
+  {
+    "MapName": "ze_cursed_bear_tales_v1_2",
+    "IsMoreThan150MB": false,
+    "FileSize": 150984768
+  },
+  {
+    "MapName": "ze_cursed_ruins_gf1_1",
+    "IsMoreThan150MB": false,
+    "FileSize": 16077511
+  },
+  {
+    "MapName": "ze_CV_LOSII_Castle_Siege_b4",
+    "IsMoreThan150MB": false,
+    "FileSize": 94105161
+  },
+  {
+    "MapName": "ze_cyberderp_p4",
+    "IsMoreThan150MB": false,
+    "FileSize": 97811932
+  },
+  {
+    "MapName": "ze_cyberia_v1",
+    "IsMoreThan150MB": false,
+    "FileSize": 152885640
+  },
+  {
+    "MapName": "ze_cyberpunk_x_a07",
+    "IsMoreThan150MB": false,
+    "FileSize": 152580024
+  },
+  {
+    "MapName": "ze_dangerous_waters_v2_Final",
+    "IsMoreThan150MB": false,
+    "FileSize": 74139060
+  },
+  {
+    "MapName": "ze_dark_souls_ptd_csgo2",
+    "IsMoreThan150MB": false,
+    "FileSize": 156487681
+  },
+  {
+    "MapName": "ze_deadcore_v1_3",
+    "IsMoreThan150MB": false,
+    "FileSize": 61538023
+  },
+  {
+    "MapName": "ze_dear_v1",
+    "IsMoreThan150MB": false,
+    "FileSize": 115052634
+  },
+  {
+    "MapName": "ze_death_star_escape_v4_3_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 48442550
+  },
+  {
+    "MapName": "ze_death_wish_gf1_1",
+    "IsMoreThan150MB": false,
+    "FileSize": 31743362
+  },
+  {
+    "MapName": "ze_deathinvain_palace_v2",
+    "IsMoreThan150MB": false,
+    "FileSize": 130629631
+  },
+  {
+    "MapName": "ze_deepice_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 41964552
+  },
+  {
+    "MapName": "ze_defense3002",
+    "IsMoreThan150MB": false,
+    "FileSize": 31911134
+  },
+  {
+    "MapName": "ze_depths_b2",
+    "IsMoreThan150MB": false,
+    "FileSize": 102870736
+  },
+  {
+    "MapName": "ze_descent_into_cerberon_v1",
+    "IsMoreThan150MB": false,
+    "FileSize": 120047759
+  },
+  {
+    "MapName": "ze_desert_fox_v7_6f",
+    "IsMoreThan150MB": false,
+    "FileSize": 45327221
+  },
+  {
+    "MapName": "ze_Desperate_Soul_a9",
+    "IsMoreThan150MB": false,
+    "FileSize": 156311123
+  },
+  {
+    "MapName": "ze_destruction_of_exorath_v4_lite",
+    "IsMoreThan150MB": false,
+    "FileSize": 156631120
+  },
+  {
+    "MapName": "ze_diddle_v3",
+    "IsMoreThan150MB": false,
+    "FileSize": 151026913
+  },
+  {
+    "MapName": "ze_DOOM_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 42270786
+  },
+  {
+    "MapName": "ze_doom3_v2",
+    "IsMoreThan150MB": false,
+    "FileSize": 156766132
+  },
+  {
+    "MapName": "ze_draco_accidere_v4_final",
+    "IsMoreThan150MB": false,
+    "FileSize": 145686547
+  },
+  {
+    "MapName": "ze_dreamin_v3_3",
+    "IsMoreThan150MB": false,
+    "FileSize": 141725700
+  },
+  {
+    "MapName": "ze_dungeon_of_ignorance_a1_2",
+    "IsMoreThan150MB": false,
+    "FileSize": 34648638
+  },
+  {
+    "MapName": "ze_dust_escape_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 17208234
+  },
+  {
+    "MapName": "ze_DYSTOPIA_a4",
+    "IsMoreThan150MB": false,
+    "FileSize": 151932444
+  },
+  {
+    "MapName": "ze_earrape_escape_v1_5_supreme_seizure_edition",
+    "IsMoreThan150MB": false,
+    "FileSize": 100603172
+  },
+  {
+    "MapName": "ze_easy_escape_r",
+    "IsMoreThan150MB": false,
+    "FileSize": 108733493
+  },
+  {
+    "MapName": "ze_eden_a3",
+    "IsMoreThan150MB": false,
+    "FileSize": 28790781
+  },
+  {
+    "MapName": "ze_el_salto_del_angel_p",
+    "IsMoreThan150MB": false,
+    "FileSize": 20712038
+  },
+  {
+    "MapName": "ze_ELEVATOR_escape_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 36308506
+  },
+  {
+    "MapName": "ze_elork_ok3ng3se5_v1_3",
+    "IsMoreThan150MB": false,
+    "FileSize": 131541278
+  },
+  {
+    "MapName": "ze_endemic_v1_3",
+    "IsMoreThan150MB": false,
+    "FileSize": 102692082
+  },
+  {
+    "MapName": "ze_epic_escape_v2_1",
+    "IsMoreThan150MB": false,
+    "FileSize": 44612864
+  },
+  {
+    "MapName": "ze_escape_horizon_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 68156555
+  },
+  {
+    "MapName": "ze_escape_stroggos_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 37392988
+  },
+  {
+    "MapName": "ze_escape_the_eye_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 37049825
+  },
+  {
+    "MapName": "ze_escapetheworld_a33",
+    "IsMoreThan150MB": false,
+    "FileSize": 117820206
+  },
+  {
+    "MapName": "ze_eschaton_a3_1",
+    "IsMoreThan150MB": false,
+    "FileSize": 86979736
+  },
+  {
+    "MapName": "ze_eternal_grove_v3",
+    "IsMoreThan150MB": false,
+    "FileSize": 153092015
+  },
+  {
+    "MapName": "ze_eternal_journey_go_v1_4t11",
+    "IsMoreThan150MB": false,
+    "FileSize": 148031975
+  },
+  {
+    "MapName": "ze_eternal_void_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 48840779
+  },
+  {
+    "MapName": "ze_evernight_a3_4",
+    "IsMoreThan150MB": false,
+    "FileSize": 140092987
+  },
+  {
+    "MapName": "ze_evil_mansion_v1_finalf",
+    "IsMoreThan150MB": false,
+    "FileSize": 39849437
+  },
+  {
+    "MapName": "ze_exchange_innovation_v1b",
+    "IsMoreThan150MB": false,
+    "FileSize": 148177102
+  },
+  {
+    "MapName": "ze_facility_overload_final2",
+    "IsMoreThan150MB": false,
+    "FileSize": 83063993
+  },
+  {
+    "MapName": "ze_fapescape_p5",
+    "IsMoreThan150MB": false,
+    "FileSize": 98008072
+  },
+  {
+    "MapName": "ze_fapescape_rote_v1_3",
+    "IsMoreThan150MB": false,
+    "FileSize": 132240312
+  },
+  {
+    "MapName": "ze_fast_escape_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 31862644
+  },
+  {
+    "MapName": "ze_ffuxx_demon_naramina_a2",
+    "IsMoreThan150MB": false,
+    "FileSize": 104904864
+  },
+  {
+    "MapName": "ze_FFVII_Cosmo_Canyon_v5k_fix",
+    "IsMoreThan150MB": false,
+    "FileSize": 151917998
+  },
+  {
+    "MapName": "ze_ffvii_cosmo_canyon_v6test5",
+    "IsMoreThan150MB": false,
+    "FileSize": 156699724
+  },
+  {
+    "MapName": "ze_FFVII_Mako_Reactor_v5_3_Kia4",
+    "IsMoreThan150MB": false,
+    "FileSize": 157196562
+  },
+  {
+    "MapName": "ze_FFVII_Mako_Reactor_v6_b09k2",
+    "IsMoreThan150MB": false,
+    "FileSize": 156952651
+  },
+  {
+    "MapName": "ze_FFVII_Temple_Ancient_v4_3",
+    "IsMoreThan150MB": false,
+    "FileSize": 151693842
+  },
+  {
+    "MapName": "ze_FFXII_Feywood_b6_3k",
+    "IsMoreThan150MB": false,
+    "FileSize": 136557167
+  },
+  {
+    "MapName": "ze_FFXII_Mt_Bur_Omisace_v5_4fix4",
+    "IsMoreThan150MB": false,
+    "FileSize": 156222762
+  },
+  {
+    "MapName": "ze_FFXII_Paramina_Rift_r4",
+    "IsMoreThan150MB": false,
+    "FileSize": 155256957
+  },
+  {
+    "MapName": "ze_FFXII_Ridorana_Cataract_t5_3_w6",
+    "IsMoreThan150MB": false,
+    "FileSize": 154508810
+  },
+  {
+    "MapName": "ze_FFXII_Salikawood_v1_6f",
+    "IsMoreThan150MB": false,
+    "FileSize": 157190912
+  },
+  {
+    "MapName": "ze_FFXII_Westersand_v7_z9",
+    "IsMoreThan150MB": false,
+    "FileSize": 127660204
+  },
+  {
+    "MapName": "ze_FFXII_Westersand_v8zeta1_b5k",
+    "IsMoreThan150MB": false,
+    "FileSize": 153108427
+  },
+  {
+    "MapName": "ze_FFXIV_Pharos_Sirius_v1_6",
+    "IsMoreThan150MB": false,
+    "FileSize": 156429284
+  },
+  {
+    "MapName": "ze_FFXIV_Wanderers_Palace_v2_va2",
+    "IsMoreThan150MB": false,
+    "FileSize": 94703555
+  },
+  {
+    "MapName": "ze_FFXIV_Wanderers_Palace_v4_va2",
+    "IsMoreThan150MB": false,
+    "FileSize": 115487369
+  },
+  {
+    "MapName": "ze_FFXIV_Wanderers_Palace_v5_2",
+    "IsMoreThan150MB": false,
+    "FileSize": 157136585
+  },
+  {
+    "MapName": "ze_ffxiv_wanderers_palace_v6_2z1",
+    "IsMoreThan150MB": false,
+    "FileSize": 157192144
+  },
+  {
+    "MapName": "ze_firewall_laboratory_part1_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 53592880
+  },
+  {
+    "MapName": "ze_firewall_laboratory_part2_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 51306351
+  },
+  {
+    "MapName": "ze_flex_b4",
+    "IsMoreThan150MB": false,
+    "FileSize": 54319705
+  },
+  {
+    "MapName": "ze_flying_world_p",
+    "IsMoreThan150MB": false,
+    "FileSize": 62801470
+  },
+  {
+    "MapName": "ze_forbidden_repository_a1_4",
+    "IsMoreThan150MB": false,
+    "FileSize": 79482500
+  },
+  {
+    "MapName": "ze_forest_r_v1",
+    "IsMoreThan150MB": false,
+    "FileSize": 89737789
+  },
+  {
+    "MapName": "ze_forgotten_facility_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 31214442
+  },
+  {
+    "MapName": "ze_FORiUS_just_RUN_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 5017205
+  },
+  {
+    "MapName": "ze_forsaken_temple_v3_b5",
+    "IsMoreThan150MB": false,
+    "FileSize": 136802368
+  },
+  {
+    "MapName": "ze_frostdrake_tower_v1",
+    "IsMoreThan150MB": false,
+    "FileSize": 78712378
+  },
+  {
+    "MapName": "ze_frozen_abyss_v1_2",
+    "IsMoreThan150MB": false,
+    "FileSize": 146144440
+  },
+  {
+    "MapName": "ze_frozentemple_rc1_1",
+    "IsMoreThan150MB": false,
+    "FileSize": 68745904
+  },
+  {
+    "MapName": "ze_funny_runner_v3_1",
+    "IsMoreThan150MB": false,
+    "FileSize": 149328657
+  },
+  {
+    "MapName": "ze_games_v2_1",
+    "IsMoreThan150MB": false,
+    "FileSize": 35403186
+  },
+  {
+    "MapName": "ze_genso_of_last_v3_4_t1",
+    "IsMoreThan150MB": false,
+    "FileSize": 156264837
+  },
+  {
+    "MapName": "ze_gods_wrath_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 38814922
+  },
+  {
+    "MapName": "ze_got_the_north_csgo3",
+    "IsMoreThan150MB": false,
+    "FileSize": 143377818
+  },
+  {
+    "MapName": "ze_grand_boatescape_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 48547876
+  },
+  {
+    "MapName": "ze_grau_a03_4ff",
+    "IsMoreThan150MB": false,
+    "FileSize": 103397324
+  },
+  {
+    "MapName": "ze_greece_escape_p",
+    "IsMoreThan150MB": false,
+    "FileSize": 37001831
+  },
+  {
+    "MapName": "ze_greencity_fix",
+    "IsMoreThan150MB": false,
+    "FileSize": 59265576
+  },
+  {
+    "MapName": "ze_greyplace_v1_2",
+    "IsMoreThan150MB": false,
+    "FileSize": 95352976
+  },
+  {
+    "MapName": "ze_gris_a4_9_8",
+    "IsMoreThan150MB": false,
+    "FileSize": 71494022
+  },
+  {
+    "MapName": "ze_gris_v1_13",
+    "IsMoreThan150MB": false,
+    "FileSize": 104447879
+  },
+  {
+    "MapName": "ze_Halloween_House_b4",
+    "IsMoreThan150MB": false,
+    "FileSize": 142227828
+  },
+  {
+    "MapName": "ze_halo_ce_p1_b16",
+    "IsMoreThan150MB": false,
+    "FileSize": 87319764
+  },
+  {
+    "MapName": "ze_halo_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 59925677
+  },
+  {
+    "MapName": "ze_halo_poa_p4",
+    "IsMoreThan150MB": false,
+    "FileSize": 62483718
+  },
+  {
+    "MapName": "ze_halo_quarantine_zone_alpha_v6",
+    "IsMoreThan150MB": false,
+    "FileSize": 152831260
+  },
+  {
+    "MapName": "ze_harry_potter_v2_1_csgo",
+    "IsMoreThan150MB": true,
+    "FileSize": 366137727
+  },
+  {
+    "MapName": "ze_haunted_lab_escape_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 31173946
+  },
+  {
+    "MapName": "ze_hazard_escape_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 31477663
+  },
+  {
+    "MapName": "ze_Hell_Escape_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 41219696
+  },
+  {
+    "MapName": "ze_hidden_fortress_p",
+    "IsMoreThan150MB": false,
+    "FileSize": 35988924
+  },
+  {
+    "MapName": "ze_hidden_temple_v2_5",
+    "IsMoreThan150MB": false,
+    "FileSize": 80347725
+  },
+  {
+    "MapName": "ze_highest_to_lowest_v1_1",
+    "IsMoreThan150MB": false,
+    "FileSize": 31524186
+  },
+  {
+    "MapName": "ze_hold_em_v8",
+    "IsMoreThan150MB": false,
+    "FileSize": 11945975
+  },
+  {
+    "MapName": "ze_honkai_impact_3rd_babel_v1_55",
+    "IsMoreThan150MB": false,
+    "FileSize": 153390660
+  },
+  {
+    "MapName": "ze_hsc_a4_q3",
+    "IsMoreThan150MB": false,
+    "FileSize": 97525596
+  },
+  {
+    "MapName": "ze_hydroponic_garden_v1_1",
+    "IsMoreThan150MB": false,
+    "FileSize": 123687000
+  },
+  {
+    "MapName": "ze_hypernova_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 96537028
+  },
+  {
+    "MapName": "ze_iamlegend_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 77532008
+  },
+  {
+    "MapName": "ze_icecap_escape_v5_p",
+    "IsMoreThan150MB": false,
+    "FileSize": 33124388
+  },
+  {
+    "MapName": "ze_iceland_escape_v1_2",
+    "IsMoreThan150MB": false,
+    "FileSize": 33923946
+  },
+  {
+    "MapName": "ze_illya_b4_csgo_a3",
+    "IsMoreThan150MB": false,
+    "FileSize": 156354340
+  },
+  {
+    "MapName": "ze_inboxed_final_fix",
+    "IsMoreThan150MB": false,
+    "FileSize": 41580172
+  },
+  {
+    "MapName": "ze_indiana_jones_v4a_004_p4",
+    "IsMoreThan150MB": false,
+    "FileSize": 77466143
+  },
+  {
+    "MapName": "ze_industrial_dejavu_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 77770920
+  },
+  {
+    "MapName": "ze_infected_lab_v4_1",
+    "IsMoreThan150MB": false,
+    "FileSize": 67210550
+  },
+  {
+    "MapName": "ze_infected_sewers_csgo",
+    "IsMoreThan150MB": false,
+    "FileSize": 128944603
+  },
+  {
+    "MapName": "ze_infected_tramway_csgo1",
+    "IsMoreThan150MB": false,
+    "FileSize": 87939239
+  },
+  {
+    "MapName": "ze_infernal_spire_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 76954867
+  },
+  {
+    "MapName": "ze_infested-industry_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 53496087
+  },
+  {
+    "MapName": "ze_infiltration_final_r1",
+    "IsMoreThan150MB": false,
+    "FileSize": 104524500
+  },
+  {
+    "MapName": "ze_insanitycity_va2",
+    "IsMoreThan150MB": false,
+    "FileSize": 28733341
+  },
+  {
+    "MapName": "ze_insensible_sr8gm6yj12hs7_RG_v9_6",
+    "IsMoreThan150MB": false,
+    "FileSize": 148223415
+  },
+  {
+    "MapName": "ze_interception_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 71305089
+  },
+  {
+    "MapName": "ze_isla_nublar_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 96887657
+  },
+  {
+    "MapName": "ze_island_escape_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 35065878
+  },
+  {
+    "MapName": "ze_ismellmagicintheair_wg7tw9vm1io1bu7_v3",
+    "IsMoreThan150MB": false,
+    "FileSize": 127416799
+  },
+  {
+    "MapName": "ze_italy_town_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 38864865
+  },
+  {
+    "MapName": "ze_jamais_vu_b2",
+    "IsMoreThan150MB": false,
+    "FileSize": 879744
+  },
+  {
+    "MapName": "ze_jiangnan_town_v3",
+    "IsMoreThan150MB": false,
+    "FileSize": 142877387
+  },
+  {
+    "MapName": "ze_jiba_journey_v4_3",
+    "IsMoreThan150MB": false,
+    "FileSize": 153471576
+  },
+  {
+    "MapName": "ze_jjba_v7",
+    "IsMoreThan150MB": false,
+    "FileSize": 150344248
+  },
+  {
+    "MapName": "ze_johnny_nukem_go_b8_3a",
+    "IsMoreThan150MB": false,
+    "FileSize": 153776736
+  },
+  {
+    "MapName": "ze_journey_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 116294298
+  },
+  {
+    "MapName": "ze_JurassicPark_Escape_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 35965427
+  },
+  {
+    "MapName": "ze_JurassicPark_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 29576329
+  },
+  {
+    "MapName": "ze_K19_escape_go1",
+    "IsMoreThan150MB": false,
+    "FileSize": 8640055
+  },
+  {
+    "MapName": "ze_kaffe_escape_v2",
+    "IsMoreThan150MB": false,
+    "FileSize": 12138958
+  },
+  {
+    "MapName": "ze_kage_a3",
+    "IsMoreThan150MB": false,
+    "FileSize": 45442823
+  },
+  {
+    "MapName": "ze_kebab_immigrant_k",
+    "IsMoreThan150MB": false,
+    "FileSize": 102980052
+  },
+  {
+    "MapName": "ze_Kitchen_v2",
+    "IsMoreThan150MB": false,
+    "FileSize": 144157060
+  },
+  {
+    "MapName": "ze_Knife_Stray_v3",
+    "IsMoreThan150MB": false,
+    "FileSize": 92899311
+  },
+  {
+    "MapName": "ze_kororinpa_v2_2",
+    "IsMoreThan150MB": false,
+    "FileSize": 37628294
+  },
+  {
+    "MapName": "ze_kraznov_poopata_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 54927425
+  },
+  {
+    "MapName": "ze_l0v0l_v1_4_csgo2",
+    "IsMoreThan150MB": false,
+    "FileSize": 157047339
+  },
+  {
+    "MapName": "ze_laserheaven_csgo2",
+    "IsMoreThan150MB": false,
+    "FileSize": 141739336
+  },
+  {
+    "MapName": "ze_Last_Man_Standing_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 156341148
+  },
+  {
+    "MapName": "ze_legoland_crackheads_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 58602348
+  },
+  {
+    "MapName": "ze_lemonysnickets_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 42767027
+  },
+  {
+    "MapName": "ze_licciana_escape_p",
+    "IsMoreThan150MB": false,
+    "FileSize": 26732984
+  },
+  {
+    "MapName": "ze_light_escape_v1_final",
+    "IsMoreThan150MB": false,
+    "FileSize": 101188199
+  },
+  {
+    "MapName": "ze_light_v7_csgo_tk13_v5_2fix",
+    "IsMoreThan150MB": false,
+    "FileSize": 63925152
+  },
+  {
+    "MapName": "ze_lorem_ipsum_a1",
+    "IsMoreThan150MB": false,
+    "FileSize": 18600786
+  },
+  {
+    "MapName": "ze_LOTR_Helms_Deep_v5_p6",
+    "IsMoreThan150MB": false,
+    "FileSize": 80227123
+  },
+  {
+    "MapName": "ze_LOTR_Isengard_csgo1",
+    "IsMoreThan150MB": false,
+    "FileSize": 136607441
+  },
+  {
+    "MapName": "ze_LOTR_Laketown_v3_3",
+    "IsMoreThan150MB": false,
+    "FileSize": 152454925
+  },
+  {
+    "MapName": "ze_LOTR_Minas_Tiret_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 53907113
+  },
+  {
+    "MapName": "ze_LOTR_Minas_Tirith_p5",
+    "IsMoreThan150MB": false,
+    "FileSize": 156617268
+  },
+  {
+    "MapName": "ze_LOTR_Mines_of_Moria_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 66652104
+  },
+  {
+    "MapName": "ze_LOTR_Mirkwood_v2_5",
+    "IsMoreThan150MB": false,
+    "FileSize": 42863595
+  },
+  {
+    "MapName": "ze_LOTR_Mount_Doom_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 76321470
+  },
+  {
+    "MapName": "ze_luck_matters_v3_1",
+    "IsMoreThan150MB": false,
+    "FileSize": 107033277
+  },
+  {
+    "MapName": "ze_Lucy_Escape_v1",
+    "IsMoreThan150MB": false,
+    "FileSize": 149091897
+  },
+  {
+    "MapName": "ze_LuigisMansion_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 74030386
+  },
+  {
+    "MapName": "ze_m0w0m_csgo1",
+    "IsMoreThan150MB": false,
+    "FileSize": 156051154
+  },
+  {
+    "MapName": "ze_mabinogi_f4_1",
+    "IsMoreThan150MB": false,
+    "FileSize": 121401025
+  },
+  {
+    "MapName": "ze_madara_temple_v1fix_csgo",
+    "IsMoreThan150MB": false,
+    "FileSize": 156351832
+  },
+  {
+    "MapName": "ze_magala_castle_final",
+    "IsMoreThan150MB": false,
+    "FileSize": 56637246
+  },
+  {
+    "MapName": "ze_magic_carpet_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 12213316
+  },
+  {
+    "MapName": "ze_mapeadores_museum_v1",
+    "IsMoreThan150MB": false,
+    "FileSize": 153404731
+  },
+  {
+    "MapName": "ze_mario_tower_v4_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 52940020
+  },
+  {
+    "MapName": "ze_mars_escape_gp3",
+    "IsMoreThan150MB": false,
+    "FileSize": 22308237
+  },
+  {
+    "MapName": "ze_meatropolis_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 52524821
+  },
+  {
+    "MapName": "ze_medievil_the_graveyard_v4",
+    "IsMoreThan150MB": false,
+    "FileSize": 21037056
+  },
+  {
+    "MapName": "ze_melong_dow_learjet_gp1",
+    "IsMoreThan150MB": false,
+    "FileSize": 15061885
+  },
+  {
+    "MapName": "ze_memehell_v1_1_go",
+    "IsMoreThan150MB": false,
+    "FileSize": 150632508
+  },
+  {
+    "MapName": "ze_mgden_v2_5fix",
+    "IsMoreThan150MB": false,
+    "FileSize": 77890566
+  },
+  {
+    "MapName": "ze_military_escape_p4",
+    "IsMoreThan150MB": false,
+    "FileSize": 26304363
+  },
+  {
+    "MapName": "ze_MindTree_v1_6",
+    "IsMoreThan150MB": false,
+    "FileSize": 104552879
+  },
+  {
+    "MapName": "ze_minecraft_adventure_v1_3d",
+    "IsMoreThan150MB": false,
+    "FileSize": 85609128
+  },
+  {
+    "MapName": "ze_minecraft_universe_v1_5",
+    "IsMoreThan150MB": false,
+    "FileSize": 109945389
+  },
+  {
+    "MapName": "ze_minecraft_v1_1_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 30681369
+  },
+  {
+    "MapName": "ze_minimal_csgo",
+    "IsMoreThan150MB": false,
+    "FileSize": 117013081
+  },
+  {
+    "MapName": "ze_Mirrors_Edge_Reborn_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 38257423
+  },
+  {
+    "MapName": "ze_mist_q3",
+    "IsMoreThan150MB": false,
+    "FileSize": 144759436
+  },
+  {
+    "MapName": "ze_mojos_minigames_v1_4_1",
+    "IsMoreThan150MB": false,
+    "FileSize": 129236120
+  },
+  {
+    "MapName": "ze_moltentemple_csgo1",
+    "IsMoreThan150MB": false,
+    "FileSize": 135856447
+  },
+  {
+    "MapName": "ze_monolith_p",
+    "IsMoreThan150MB": false,
+    "FileSize": 154318308
+  },
+  {
+    "MapName": "ze_moon_base_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 45278230
+  },
+  {
+    "MapName": "ze_MORELL_April_Vacation_v1",
+    "IsMoreThan150MB": false,
+    "FileSize": 14869266
+  },
+  {
+    "MapName": "ze_motanuminc_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 25840888
+  },
+  {
+    "MapName": "ze_mytex_escape_v3_p",
+    "IsMoreThan150MB": false,
+    "FileSize": 49419663
+  },
+  {
+    "MapName": "ze_naiads_v4a_6f",
+    "IsMoreThan150MB": false,
+    "FileSize": 139914629
+  },
+  {
+    "MapName": "ze_nameless_necropolis_v3",
+    "IsMoreThan150MB": false,
+    "FileSize": 156835753
+  },
+  {
+    "MapName": "ze_namviet_gf1_1",
+    "IsMoreThan150MB": false,
+    "FileSize": 37629543
+  },
+  {
+    "MapName": "ze_Naruto_p",
+    "IsMoreThan150MB": false,
+    "FileSize": 117598766
+  },
+  {
+    "MapName": "ze_Natural_v1_4",
+    "IsMoreThan150MB": false,
+    "FileSize": 129705185
+  },
+  {
+    "MapName": "ze_necromanteion_v3_1",
+    "IsMoreThan150MB": false,
+    "FileSize": 136076224
+  },
+  {
+    "MapName": "ze_negative_legacy_va2",
+    "IsMoreThan150MB": false,
+    "FileSize": 43174910
+  },
+  {
+    "MapName": "ze_neko_canyon_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 49397144
+  },
+  {
+    "MapName": "ze_neochrome_csgo3a",
+    "IsMoreThan150MB": false,
+    "FileSize": 99023576
+  },
+  {
+    "MapName": "ze_new_crazy_escape_v4_1",
+    "IsMoreThan150MB": false,
+    "FileSize": 81327167
+  },
+  {
+    "MapName": "ze_nibui_m",
+    "IsMoreThan150MB": false,
+    "FileSize": 39069528
+  },
+  {
+    "MapName": "ze_nightmare_dimension_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 90513594
+  },
+  {
+    "MapName": "ze_no_name_v1_6",
+    "IsMoreThan150MB": false,
+    "FileSize": 33660716
+  },
+  {
+    "MapName": "ze_no_title_v2_5",
+    "IsMoreThan150MB": false,
+    "FileSize": 101423359
+  },
+  {
+    "MapName": "ze_noir_p4",
+    "IsMoreThan150MB": false,
+    "FileSize": 129095932
+  },
+  {
+    "MapName": "ze_nomada_h3",
+    "IsMoreThan150MB": false,
+    "FileSize": 117218840
+  },
+  {
+    "MapName": "ze_nora_v1_11",
+    "IsMoreThan150MB": false,
+    "FileSize": 88072024
+  },
+  {
+    "MapName": "ze_nostromo_escape_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 46047101
+  },
+  {
+    "MapName": "ze_nostromo_redux_v1_2",
+    "IsMoreThan150MB": false,
+    "FileSize": 108387912
+  },
+  {
+    "MapName": "ze_notredame_p4",
+    "IsMoreThan150MB": false,
+    "FileSize": 26422254
+  },
+  {
+    "MapName": "ze_nuke_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 26255447
+  },
+  {
+    "MapName": "ze_NY_marathon_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 91553299
+  },
+  {
+    "MapName": "ze_oblivion_castle_v6",
+    "IsMoreThan150MB": false,
+    "FileSize": 145681588
+  },
+  {
+    "MapName": "ze_ocean_base_escape_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 63186517
+  },
+  {
+    "MapName": "ze_offliner_v2_csgo1",
+    "IsMoreThan150MB": false,
+    "FileSize": 86500724
+  },
+  {
+    "MapName": "ze_omega_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 36771616
+  },
+  {
+    "MapName": "ze_omen_090",
+    "IsMoreThan150MB": false,
+    "FileSize": 95365673
+  },
+  {
+    "MapName": "ze_omochi_b10",
+    "IsMoreThan150MB": false,
+    "FileSize": 116912419
+  },
+  {
+    "MapName": "ze_omochix_v3_2fix",
+    "IsMoreThan150MB": false,
+    "FileSize": 108826555
+  },
+  {
+    "MapName": "ze_onahole_v3_3_3",
+    "IsMoreThan150MB": false,
+    "FileSize": 148965671
+  },
+  {
+    "MapName": "ze_oneiros_p",
+    "IsMoreThan150MB": false,
+    "FileSize": 41567730
+  },
+  {
+    "MapName": "ze_oot_shadowtemple_b10",
+    "IsMoreThan150MB": false,
+    "FileSize": 27854590
+  },
+  {
+    "MapName": "ze_opti_variety_missions_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 7715674
+  },
+  {
+    "MapName": "ze_otakuroom_v5_6f3",
+    "IsMoreThan150MB": false,
+    "FileSize": 106005782
+  },
+  {
+    "MapName": "ze_Outlast_v2_cm1_fix1",
+    "IsMoreThan150MB": false,
+    "FileSize": 146834831
+  },
+  {
+    "MapName": "ze_outpost_escape_k2",
+    "IsMoreThan150MB": false,
+    "FileSize": 85785288
+  },
+  {
+    "MapName": "ze_palace_adventure_v1_2",
+    "IsMoreThan150MB": false,
+    "FileSize": 63067571
+  },
+  {
+    "MapName": "ze_pallaroid_rage_v1",
+    "IsMoreThan150MB": false,
+    "FileSize": 66208586
+  },
+  {
+    "MapName": "ze_pandora_revolutionz_hdr2",
+    "IsMoreThan150MB": false,
+    "FileSize": 107920854
+  },
+  {
+    "MapName": "ze_paper_escaper_p7",
+    "IsMoreThan150MB": false,
+    "FileSize": 75262656
+  },
+  {
+    "MapName": "ze_paranoid_rezurrection_csgo1",
+    "IsMoreThan150MB": false,
+    "FileSize": 143226263
+  },
+  {
+    "MapName": "ze_parkers_pit_p",
+    "IsMoreThan150MB": false,
+    "FileSize": 147384292
+  },
+  {
+    "MapName": "ze_Parking_p4",
+    "IsMoreThan150MB": false,
+    "FileSize": 115113763
+  },
+  {
+    "MapName": "ze_PC_v1_2",
+    "IsMoreThan150MB": false,
+    "FileSize": 109246152
+  },
+  {
+    "MapName": "ze_pd2_crime_art_v2",
+    "IsMoreThan150MB": false,
+    "FileSize": 46929865
+  },
+  {
+    "MapName": "ze_phantasy_escape_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 62737583
+  },
+  {
+    "MapName": "ze_Pidaras_va2",
+    "IsMoreThan150MB": false,
+    "FileSize": 120725866
+  },
+  {
+    "MapName": "ze_Pirates_Port_Royal_v5_6",
+    "IsMoreThan150MB": false,
+    "FileSize": 148337119
+  },
+  {
+    "MapName": "ze_pitchblack_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 44698851
+  },
+  {
+    "MapName": "ze_pizzatime_v9",
+    "IsMoreThan150MB": false,
+    "FileSize": 129137915
+  },
+  {
+    "MapName": "ze_pkmn_adventure_v9_3",
+    "IsMoreThan150MB": false,
+    "FileSize": 136325138
+  },
+  {
+    "MapName": "ze_platformer_b6",
+    "IsMoreThan150MB": false,
+    "FileSize": 45893399
+  },
+  {
+    "MapName": "ze_Pokemon_Rivals_v1_8",
+    "IsMoreThan150MB": false,
+    "FileSize": 128390841
+  },
+  {
+    "MapName": "ze_pools_b1_2",
+    "IsMoreThan150MB": false,
+    "FileSize": 45988436
+  },
+  {
+    "MapName": "ze_PoR_island_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 72509337
+  },
+  {
+    "MapName": "ze_Portal_Story_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 126814224
+  },
+  {
+    "MapName": "ze_postal_v1_1",
+    "IsMoreThan150MB": false,
+    "FileSize": 67523807
+  },
+  {
+    "MapName": "ze_PotC_IV_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 68217144
+  },
+  {
+    "MapName": "ze_potc_p4",
+    "IsMoreThan150MB": false,
+    "FileSize": 77208282
+  },
+  {
+    "MapName": "ze_predator_ultimate_p7",
+    "IsMoreThan150MB": false,
+    "FileSize": 139647973
+  },
+  {
+    "MapName": "ze_project_alcaria_x2",
+    "IsMoreThan150MB": false,
+    "FileSize": 153524148
+  },
+  {
+    "MapName": "ze_project_codex_v1_2",
+    "IsMoreThan150MB": false,
+    "FileSize": 143903058
+  },
+  {
+    "MapName": "ze_prototype_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 83750336
+  },
+  {
+    "MapName": "ze_puta_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 51747286
+  },
+  {
+    "MapName": "ze_rabanastre_royal_t5",
+    "IsMoreThan150MB": false,
+    "FileSize": 115703172
+  },
+  {
+    "MapName": "ze_raccoon_facility_v6b_p",
+    "IsMoreThan150MB": false,
+    "FileSize": 25555923
+  },
+  {
+    "MapName": "ze_rainbow_factory_v2",
+    "IsMoreThan150MB": false,
+    "FileSize": 38511842
+  },
+  {
+    "MapName": "ze_ramp_a1_1",
+    "IsMoreThan150MB": false,
+    "FileSize": 71250664
+  },
+  {
+    "MapName": "ze_random_escape_g1",
+    "IsMoreThan150MB": false,
+    "FileSize": 122839302
+  },
+  {
+    "MapName": "ze_Random_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 93041228
+  },
+  {
+    "MapName": "ze_randomizer_c1",
+    "IsMoreThan150MB": false,
+    "FileSize": 155496288
+  },
+  {
+    "MapName": "ze_Ratescape_v5_4",
+    "IsMoreThan150MB": false,
+    "FileSize": 154284435
+  },
+  {
+    "MapName": "ze_reconnoiter_b5",
+    "IsMoreThan150MB": false,
+    "FileSize": 53128781
+  },
+  {
+    "MapName": "ze_retribution_pf",
+    "IsMoreThan150MB": false,
+    "FileSize": 79643104
+  },
+  {
+    "MapName": "ze_rev_a6_3",
+    "IsMoreThan150MB": false,
+    "FileSize": 26321244
+  },
+  {
+    "MapName": "ze_rizomata_va2",
+    "IsMoreThan150MB": false,
+    "FileSize": 154245637
+  },
+  {
+    "MapName": "ze_rockescape_go2_1",
+    "IsMoreThan150MB": false,
+    "FileSize": 21070061
+  },
+  {
+    "MapName": "ze_rocket_escape_g1",
+    "IsMoreThan150MB": false,
+    "FileSize": 35486070
+  },
+  {
+    "MapName": "ze_rollermine_factory_2010_p",
+    "IsMoreThan150MB": false,
+    "FileSize": 29826478
+  },
+  {
+    "MapName": "ze_roof_adventure_v8f",
+    "IsMoreThan150MB": false,
+    "FileSize": 117739643
+  },
+  {
+    "MapName": "ze_Rooftop_Runaway1_p",
+    "IsMoreThan150MB": false,
+    "FileSize": 13663780
+  },
+  {
+    "MapName": "ze_rooftop_runaway2_p",
+    "IsMoreThan150MB": false,
+    "FileSize": 15503432
+  },
+  {
+    "MapName": "ze_RTCW_Ominous_Rumors_p4",
+    "IsMoreThan150MB": false,
+    "FileSize": 104791594
+  },
+  {
+    "MapName": "ze_rtv_one_more",
+    "IsMoreThan150MB": false,
+    "FileSize": 19953508
+  },
+  {
+    "MapName": "ze_ruin_of_black_stone_v2",
+    "IsMoreThan150MB": false,
+    "FileSize": 132024735
+  },
+  {
+    "MapName": "ze_rush_B_v2_2",
+    "IsMoreThan150MB": false,
+    "FileSize": 155248194
+  },
+  {
+    "MapName": "ze_S_A_M_v1_7",
+    "IsMoreThan150MB": false,
+    "FileSize": 155493474
+  },
+  {
+    "MapName": "ze_sakuzyo_b2",
+    "IsMoreThan150MB": false,
+    "FileSize": 127077921
+  },
+  {
+    "MapName": "ze_sam_hd_v1_fix",
+    "IsMoreThan150MB": false,
+    "FileSize": 94113114
+  },
+  {
+    "MapName": "ze_SANCTUARY_v1_2",
+    "IsMoreThan150MB": false,
+    "FileSize": 153823120
+  },
+  {
+    "MapName": "ze_sandstorm_go_v1_5",
+    "IsMoreThan150MB": false,
+    "FileSize": 151100634
+  },
+  {
+    "MapName": "ze_santassination_v3",
+    "IsMoreThan150MB": false,
+    "FileSize": 145939204
+  },
+  {
+    "MapName": "ze_saw_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 53706866
+  },
+  {
+    "MapName": "ze_sc_turtles_v5_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 20859503
+  },
+  {
+    "MapName": "ze_schizophrenic_c3",
+    "IsMoreThan150MB": false,
+    "FileSize": 119278628
+  },
+  {
+    "MapName": "ze_scourge_k1",
+    "IsMoreThan150MB": false,
+    "FileSize": 155897196
+  },
+  {
+    "MapName": "ze_serious_sam_tfe_v2_6",
+    "IsMoreThan150MB": false,
+    "FileSize": 121688952
+  },
+  {
+    "MapName": "ze_Serpentis_Temple_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 136771330
+  },
+  {
+    "MapName": "ze_sewage_processing_v8",
+    "IsMoreThan150MB": false,
+    "FileSize": 32743464
+  },
+  {
+    "MapName": "ze_sewer_escape_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 70544775
+  },
+  {
+    "MapName": "ze_sg1_missions_v2_1_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 84567910
+  },
+  {
+    "MapName": "ze_shaun_of_the_dead_p",
+    "IsMoreThan150MB": false,
+    "FileSize": 105712651
+  },
+  {
+    "MapName": "ze_showdown_v4_1_p",
+    "IsMoreThan150MB": false,
+    "FileSize": 27878354
+  },
+  {
+    "MapName": "ze_shrine_of_umos_b3",
+    "IsMoreThan150MB": false,
+    "FileSize": 46768291
+  },
+  {
+    "MapName": "ze_shroomforest_p6",
+    "IsMoreThan150MB": false,
+    "FileSize": 131002188
+  },
+  {
+    "MapName": "ze_shroomforest2_p6",
+    "IsMoreThan150MB": false,
+    "FileSize": 131711922
+  },
+  {
+    "MapName": "ze_ShroomForest3_p",
+    "IsMoreThan150MB": false,
+    "FileSize": 151646589
+  },
+  {
+    "MapName": "ze_siberia_1990_v1_2c_p5",
+    "IsMoreThan150MB": false,
+    "FileSize": 47483073
+  },
+  {
+    "MapName": "ze_silent_hill_2_illusion_b5",
+    "IsMoreThan150MB": false,
+    "FileSize": 153264362
+  },
+  {
+    "MapName": "ze_silent_hill_3_dawn_v2",
+    "IsMoreThan150MB": false,
+    "FileSize": 156001184
+  },
+  {
+    "MapName": "ze_silent_hill_3_flee_v4",
+    "IsMoreThan150MB": false,
+    "FileSize": 145799367
+  },
+  {
+    "MapName": "ze_silent_hill_blackblood_f6",
+    "IsMoreThan150MB": false,
+    "FileSize": 152726987
+  },
+  {
+    "MapName": "ze_skill_escape_v09",
+    "IsMoreThan150MB": false,
+    "FileSize": 42427014
+  },
+  {
+    "MapName": "ze_skygarden_v2_1",
+    "IsMoreThan150MB": false,
+    "FileSize": 153796057
+  },
+  {
+    "MapName": "ze_Skyscraper_city_r2",
+    "IsMoreThan150MB": false,
+    "FileSize": 38387650
+  },
+  {
+    "MapName": "ze_slender_escape_rc2",
+    "IsMoreThan150MB": false,
+    "FileSize": 150102032
+  },
+  {
+    "MapName": "ze_snowescape_gp1",
+    "IsMoreThan150MB": false,
+    "FileSize": 20270578
+  },
+  {
+    "MapName": "ze_solgryn_v2",
+    "IsMoreThan150MB": false,
+    "FileSize": 149913036
+  },
+  {
+    "MapName": "ze_sorrento_escape_v2",
+    "IsMoreThan150MB": false,
+    "FileSize": 133787573
+  },
+  {
+    "MapName": "ze_space_flight_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 63510935
+  },
+  {
+    "MapName": "ze_squid_game_v1",
+    "IsMoreThan150MB": false,
+    "FileSize": 133361631
+  },
+  {
+    "MapName": "ze_sst_b2_1_p5",
+    "IsMoreThan150MB": false,
+    "FileSize": 19749441
+  },
+  {
+    "MapName": "ze_sst2_p",
+    "IsMoreThan150MB": false,
+    "FileSize": 37054798
+  },
+  {
+    "MapName": "ze_stalker_ultimate_v4_9",
+    "IsMoreThan150MB": false,
+    "FileSize": 115082389
+  },
+  {
+    "MapName": "ze_stalkermonolit_v8gofix1",
+    "IsMoreThan150MB": false,
+    "FileSize": 156584401
+  },
+  {
+    "MapName": "ze_star_wars_prequel_f1",
+    "IsMoreThan150MB": false,
+    "FileSize": 134247353
+  },
+  {
+    "MapName": "ze_stargate_escape_v8_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 65832988
+  },
+  {
+    "MapName": "ze_stilshrine_of_miriam_v7_2fix",
+    "IsMoreThan150MB": false,
+    "FileSize": 154231737
+  },
+  {
+    "MapName": "ze_STRANGE_escape_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 130956744
+  },
+  {
+    "MapName": "ze_SUMAI_facility_v1a",
+    "IsMoreThan150MB": false,
+    "FileSize": 144390330
+  },
+  {
+    "MapName": "ze_sunkentemple_v3_1",
+    "IsMoreThan150MB": false,
+    "FileSize": 81678348
+  },
+  {
+    "MapName": "ze_sunlight_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 90840807
+  },
+  {
+    "MapName": "ze_SUPERSHITSHOW_a2",
+    "IsMoreThan150MB": false,
+    "FileSize": 83485395
+  },
+  {
+    "MapName": "ze_surf_bona_v1_3",
+    "IsMoreThan150MB": false,
+    "FileSize": 73347851
+  },
+  {
+    "MapName": "ze_surf_danger_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 27485612
+  },
+  {
+    "MapName": "ze_surf_dark_fantasy_v2go2",
+    "IsMoreThan150MB": false,
+    "FileSize": 151556378
+  },
+  {
+    "MapName": "ze_surf_facility_p4",
+    "IsMoreThan150MB": false,
+    "FileSize": 39445364
+  },
+  {
+    "MapName": "ze_surf_ffxiv_beachescape_camper_isengard_laser_mako",
+    "IsMoreThan150MB": false,
+    "FileSize": 28942729
+  },
+  {
+    "MapName": "ze_surf_gypt_v1_3_1f",
+    "IsMoreThan150MB": false,
+    "FileSize": 42453688
+  },
+  {
+    "MapName": "ze_surf_happy_b7",
+    "IsMoreThan150MB": false,
+    "FileSize": 115518428
+  },
+  {
+    "MapName": "ze_surf_sahok_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 80252559
+  },
+  {
+    "MapName": "ze_surf_shonyudo_v5_2",
+    "IsMoreThan150MB": false,
+    "FileSize": 64771325
+  },
+  {
+    "MapName": "ze_surf_vortex_v2_6",
+    "IsMoreThan150MB": false,
+    "FileSize": 50013886
+  },
+  {
+    "MapName": "ze_survivors_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 147631296
+  },
+  {
+    "MapName": "ze_taboo_carnation_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 146589440
+  },
+  {
+    "MapName": "ze_temple_escape_va3",
+    "IsMoreThan150MB": false,
+    "FileSize": 46192963
+  },
+  {
+    "MapName": "ze_temple_of_the_demon_god_v2",
+    "IsMoreThan150MB": false,
+    "FileSize": 157260142
+  },
+  {
+    "MapName": "ze_tenkinoko_welkin_v1_6f",
+    "IsMoreThan150MB": false,
+    "FileSize": 151416211
+  },
+  {
+    "MapName": "ze_tesv_skyrim_v5_6",
+    "IsMoreThan150MB": true,
+    "FileSize": 258773243
+  },
+  {
+    "MapName": "ze_the_curse_of_blackwater_v6b",
+    "IsMoreThan150MB": false,
+    "FileSize": 131453581
+  },
+  {
+    "MapName": "ze_the_end_v3f",
+    "IsMoreThan150MB": false,
+    "FileSize": 123382226
+  },
+  {
+    "MapName": "ze_the_last_chapter_v1_5",
+    "IsMoreThan150MB": false,
+    "FileSize": 140049283
+  },
+  {
+    "MapName": "ze_the_new_era_of_crazy_escape_b8",
+    "IsMoreThan150MB": false,
+    "FileSize": 88011229
+  },
+  {
+    "MapName": "ze_thelostworld_redux_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 65645210
+  },
+  {
+    "MapName": "ze_thousand_steps_gf1_2",
+    "IsMoreThan150MB": false,
+    "FileSize": 40693483
+  },
+  {
+    "MapName": "ze_three_eyes_v1_1",
+    "IsMoreThan150MB": false,
+    "FileSize": 91329662
+  },
+  {
+    "MapName": "ze_thriller_escape_p",
+    "IsMoreThan150MB": false,
+    "FileSize": 52795198
+  },
+  {
+    "MapName": "ze_tibia_v4_2",
+    "IsMoreThan150MB": false,
+    "FileSize": 156529501
+  },
+  {
+    "MapName": "ze_tilex_ultimate_v2_13_gf1_5",
+    "IsMoreThan150MB": false,
+    "FileSize": 93972207
+  },
+  {
+    "MapName": "ze_timesink_v1_2",
+    "IsMoreThan150MB": false,
+    "FileSize": 106615940
+  },
+  {
+    "MapName": "ze_timesplitters_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 19671391
+  },
+  {
+    "MapName": "ze_titanic_escape_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 24109040
+  },
+  {
+    "MapName": "ze_tkara_v4_3",
+    "IsMoreThan150MB": false,
+    "FileSize": 127181438
+  },
+  {
+    "MapName": "ze_toaster_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 22750694
+  },
+  {
+    "MapName": "ze_Totemo_Roka_v1",
+    "IsMoreThan150MB": false,
+    "FileSize": 100074661
+  },
+  {
+    "MapName": "ze_touhou_gensokyo_o4",
+    "IsMoreThan150MB": false,
+    "FileSize": 139714655
+  },
+  {
+    "MapName": "ze_traak_b2",
+    "IsMoreThan150MB": false,
+    "FileSize": 118648868
+  },
+  {
+    "MapName": "ze_trainescape_final_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 31700770
+  },
+  {
+    "MapName": "ze_trainstation_tunnels_p",
+    "IsMoreThan150MB": false,
+    "FileSize": 41671920
+  },
+  {
+    "MapName": "ze_trials_v3_test",
+    "IsMoreThan150MB": false,
+    "FileSize": 154957108
+  },
+  {
+    "MapName": "ze_tropico_escape_gf1_1",
+    "IsMoreThan150MB": false,
+    "FileSize": 47514137
+  },
+  {
+    "MapName": "ze_turokbase_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 30199827
+  },
+  {
+    "MapName": "ze_TV_station_r4",
+    "IsMoreThan150MB": false,
+    "FileSize": 25788059
+  },
+  {
+    "MapName": "ze_tyranny_v5_2k3",
+    "IsMoreThan150MB": false,
+    "FileSize": 152575179
+  },
+  {
+    "MapName": "ze_tyranny2_v1_csgo2",
+    "IsMoreThan150MB": false,
+    "FileSize": 157104062
+  },
+  {
+    "MapName": "ze_Uchiha_Legacy_cm2_fix",
+    "IsMoreThan150MB": true,
+    "FileSize": 284608898
+  },
+  {
+    "MapName": "ze_ujel_extreme_v1_5",
+    "IsMoreThan150MB": false,
+    "FileSize": 122327592
+  },
+  {
+    "MapName": "ze_underground_escape_p",
+    "IsMoreThan150MB": false,
+    "FileSize": 26512677
+  },
+  {
+    "MapName": "ze_undersea_temple_a4_4",
+    "IsMoreThan150MB": false,
+    "FileSize": 131592683
+  },
+  {
+    "MapName": "ze_undertale_g_v1_3_fix1",
+    "IsMoreThan150MB": false,
+    "FileSize": 40464980
+  },
+  {
+    "MapName": "ze_urban_laby_of_death_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 64367937
+  },
+  {
+    "MapName": "ze_urbanterror_b2",
+    "IsMoreThan150MB": false,
+    "FileSize": 23800983
+  },
+  {
+    "MapName": "ze_UT2004_Convoy_r5",
+    "IsMoreThan150MB": false,
+    "FileSize": 60765118
+  },
+  {
+    "MapName": "ze_v0u0v_csgo1",
+    "IsMoreThan150MB": false,
+    "FileSize": 156084241
+  },
+  {
+    "MapName": "ze_valkvang_v1_2",
+    "IsMoreThan150MB": false,
+    "FileSize": 92683419
+  },
+  {
+    "MapName": "ze_venice_escape_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 76021504
+  },
+  {
+    "MapName": "ze_vietnam_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 40984685
+  },
+  {
+    "MapName": "ze_visualizer_v1_2",
+    "IsMoreThan150MB": false,
+    "FileSize": 128969084
+  },
+  {
+    "MapName": "ze_volcano_escape_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 49728404
+  },
+  {
+    "MapName": "ze_voodoo_islands_p5",
+    "IsMoreThan150MB": false,
+    "FileSize": 27809032
+  },
+  {
+    "MapName": "ze_winter_warehouse_p",
+    "IsMoreThan150MB": false,
+    "FileSize": 7591275
+  },
+  {
+    "MapName": "ze_world_escapes_v1",
+    "IsMoreThan150MB": false,
+    "FileSize": 29997686
+  },
+  {
+    "MapName": "ze_worlds_v1_2",
+    "IsMoreThan150MB": false,
+    "FileSize": 56954955
+  },
+  {
+    "MapName": "ze_yurilnier_beta007_hdr",
+    "IsMoreThan150MB": false,
+    "FileSize": 93050041
+  },
+  {
+    "MapName": "ze_zk_mall_of_zombies_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 56578848
+  },
+  {
+    "MapName": "ze_zombiemod_corporation_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 17153433
+  },
+  {
+    "MapName": "ze_zombierig_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 58026833
+  }
+]
