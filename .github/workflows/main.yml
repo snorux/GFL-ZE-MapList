@@ -8,7 +8,7 @@ on:
 jobs:
   build-run:
     name: Build, Run and Commit
-    runs-on: windows-2019
+    runs-on: windows-latest
 
     steps:
       - uses: actions/checkout@v3
