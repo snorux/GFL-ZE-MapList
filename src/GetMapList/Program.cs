@@ -1,6 +1,7 @@
 ﻿using GetMapList.Models;
 using Newtonsoft.Json;
 using Renci.SshNet;
+using System.Collections.Concurrent;
 
 namespace GetMapList
 {
@@ -26,15 +27,14 @@ namespace GetMapList
             client.DownloadFile("./mapcycle_zeronom.txt", memoryStream);
 
             memoryStream.Seek(0, SeekOrigin.Begin);
-            string[] output = streamReader.ReadToEnd().Split("\n").Where(x => !x.StartsWith("//")).OrderBy(x => x).ToArray();
+            string[] output = streamReader.ReadToEnd().Split("\n").Where(x => !x.StartsWith("//")).ToArray();
             Console.WriteLine($"output contains: {output.Length} maps");
 
-            List<MapModel> maps = new();
+            ConcurrentBag<MapModel> maps = new();
             Parallel.ForEach(output, map =>
             {
                 var attributes = client.GetAttributes($"./maps/{map}.bsp");
 
-                var mapModel = new MapModel();
                 maps.Add(new MapModel()
                 {
                     MapName = map,
@@ -43,10 +43,10 @@ namespace GetMapList
                 });
             });
 
-            maps = maps.OrderBy(x => x.MapName).ToList();
-            Console.WriteLine($"maps contains: {maps.Count}");
+            var results = maps.OrderBy(x => x.MapName);
+            Console.WriteLine($"result contains: {results.Count()}");
 
-            File.WriteAllText("maps.json", JsonConvert.SerializeObject(maps, Formatting.Indented));
+            File.WriteAllText("maps.json", JsonConvert.SerializeObject(results, Formatting.Indented));
             client.Dispose();
         }
     }
