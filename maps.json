@@ -25,6 +25,11 @@
     "FileSize": 88356559
   },
   {
+    "MapName": "ze_2021_xmas_world",
+    "IsMoreThan150MB": false,
+    "FileSize": 119400078
+  },
+  {
     "MapName": "ze_30_seconds__b21_p2",
     "IsMoreThan150MB": false,
     "FileSize": 24571406
@@ -1180,11 +1185,6 @@
     "FileSize": 63925152
   },
   {
-    "MapName": "ze_Lila_Panic_Escape_tr2",
-    "IsMoreThan150MB": false,
-    "FileSize": 91276841
-  },
-  {
     "MapName": "ze_lorem_ipsum_a1",
     "IsMoreThan150MB": false,
     "FileSize": 18600786
@@ -2233,6 +2233,11 @@
     "MapName": "ze_trials_v3_test",
     "IsMoreThan150MB": false,
     "FileSize": 154957108
+  },
+  {
+    "MapName": "ze_tropico_escape_gf1_1",
+    "IsMoreThan150MB": false,
+    "FileSize": 47514137
   },
   {
     "MapName": "ze_turokbase_p3",
