@@ -18,7 +18,6 @@ namespace GetMapList
             var privateKey = new PrivateKeyFile(args[3]);
             using var client = new SftpClient(args[0], Int32.Parse(args[1]), args[2], new[] { privateKey });
             client.Connect();
-
             client.ChangeDirectory("csgo");
 
             using var memoryStream = new MemoryStream();
@@ -28,6 +27,7 @@ namespace GetMapList
 
             memoryStream.Seek(0, SeekOrigin.Begin);
             string[] output = streamReader.ReadToEnd().Split("\n").Where(x => !x.StartsWith("//")).OrderBy(x => x).ToArray();
+            Console.WriteLine($"output contains: {output.Length} maps");
 
             List<MapModel> maps = new();
             Parallel.ForEach(output, map =>
@@ -43,10 +43,11 @@ namespace GetMapList
                 });
             });
 
-            client.Dispose();
-
             maps = maps.OrderBy(x => x.MapName).ToList();
+            Console.WriteLine($"maps contains: {maps.Count}");
+
             File.WriteAllText("maps.json", JsonConvert.SerializeObject(maps, Formatting.Indented));
+            client.Dispose();
         }
     }
 }
