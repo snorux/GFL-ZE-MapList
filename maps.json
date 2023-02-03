@@ -1,5 +1,10 @@
 [
   {
+    "MapName": "de_dust2",
+    "IsMoreThan150MB": true,
+    "FileSize": 325735952
+  },
+  {
     "MapName": "dz_blacksite",
     "IsMoreThan150MB": true,
     "FileSize": 182885372
