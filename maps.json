@@ -1,10 +1,5 @@
 [
   {
-    "MapName": "de_dust2",
-    "IsMoreThan150MB": true,
-    "FileSize": 325735952
-  },
-  {
     "MapName": "dz_blacksite",
     "IsMoreThan150MB": true,
     "FileSize": 182885372
@@ -1183,6 +1178,11 @@
     "MapName": "ze_light_v7_csgo_tk13_v5_2fix",
     "IsMoreThan150MB": false,
     "FileSize": 63925152
+  },
+  {
+    "MapName": "ze_Lila_Panic_Escape_tr2",
+    "IsMoreThan150MB": false,
+    "FileSize": 91276841
   },
   {
     "MapName": "ze_lorem_ipsum_a1",
