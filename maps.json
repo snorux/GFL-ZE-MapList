@@ -95,6 +95,11 @@
     "FileSize": 129362862
   },
   {
+    "MapName": "ze_antartika_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 150590520
+  },
+  {
     "MapName": "ze_Aooka_v3_t6",
     "IsMoreThan150MB": false,
     "FileSize": 120891404
@@ -1450,6 +1455,11 @@
     "FileSize": 90513594
   },
   {
+    "MapName": "ze_nightmares_madness_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 28898436
+  },
+  {
     "MapName": "ze_no_name_v1_6",
     "IsMoreThan150MB": false,
     "FileSize": 33660716
@@ -1753,6 +1763,11 @@
     "MapName": "ze_reconnoiter_b5",
     "IsMoreThan150MB": false,
     "FileSize": 53128781
+  },
+  {
+    "MapName": "ze_resonance_cascade_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 62477048
   },
   {
     "MapName": "ze_retribution_pf",
