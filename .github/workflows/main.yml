@@ -29,7 +29,13 @@ jobs:
           echo "${{ secrets.sftp_key }}" > key.pem
           dotnet run --project src/GetMapList --configuration Release -- ${{ secrets.sftp_url }} ${{ secrets.sftp_port }} ${{ secrets.sftp_username }} key.pem
 
+      - name: Check for diff
+        id: verify_diff
+        run: |
+          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
+          
       - name: Commit changes
+        if: steps.verify_diff.outputs.changed == 'true'
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "github-actions[bot]"
@@ -37,6 +43,7 @@ jobs:
           git commit -m "Updated maps.json" -a
 
       - name: Push changes
+        if: steps.verify_diff.outputs.changed == 'true'
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
