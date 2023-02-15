@@ -1615,6 +1615,11 @@
     "FileSize": 115113763
   },
   {
+    "MapName": "ze_paycheck_neox",
+    "IsMoreThan150MB": false,
+    "FileSize": 33362316
+  },
+  {
     "MapName": "ze_PC_v1_2",
     "IsMoreThan150MB": false,
     "FileSize": 109246152
@@ -1758,6 +1763,11 @@
     "MapName": "ze_Ratescape_v5_4",
     "IsMoreThan150MB": false,
     "FileSize": 154284435
+  },
+  {
+    "MapName": "ze_rawnscape_b2_nc3",
+    "IsMoreThan150MB": false,
+    "FileSize": 67396960
   },
   {
     "MapName": "ze_reconnoiter_b5",
