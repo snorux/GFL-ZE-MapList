@@ -2150,6 +2150,11 @@
     "FileSize": 157260142
   },
   {
+    "MapName": "ze_Temple_Raider_kr1",
+    "IsMoreThan150MB": false,
+    "FileSize": 156814780
+  },
+  {
     "MapName": "ze_tenkinoko_welkin_v1_6f",
     "IsMoreThan150MB": false,
     "FileSize": 151416211
