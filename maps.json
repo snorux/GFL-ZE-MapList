@@ -460,9 +460,9 @@
     "FileSize": 156487681
   },
   {
-    "MapName": "ze_deadcore_v1_3",
+    "MapName": "ze_deadcore_k2",
     "IsMoreThan150MB": false,
-    "FileSize": 61538023
+    "FileSize": 121102556
   },
   {
     "MapName": "ze_dear_v1",
@@ -1655,9 +1655,9 @@
     "FileSize": 129137915
   },
   {
-    "MapName": "ze_pkmn_adventure_v9_3",
+    "MapName": "ze_pkmn_adventure_v7_2r_final",
     "IsMoreThan150MB": false,
-    "FileSize": 136325138
+    "FileSize": 153996464
   },
   {
     "MapName": "ze_platformer_b6",
