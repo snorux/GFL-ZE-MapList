@@ -1915,6 +1915,11 @@
     "FileSize": 70544775
   },
   {
+    "MapName": "ze_sex_mod_hentai_beachescape_camper",
+    "IsMoreThan150MB": false,
+    "FileSize": 40967161
+  },
+  {
     "MapName": "ze_sg1_missions_v2_1_p2",
     "IsMoreThan150MB": false,
     "FileSize": 84567910
@@ -2098,11 +2103,6 @@
     "MapName": "ze_surf_facility_p4",
     "IsMoreThan150MB": false,
     "FileSize": 39445364
-  },
-  {
-    "MapName": "ze_surf_ffxiv_beachescape_camper_isengard_laser_mako",
-    "IsMoreThan150MB": false,
-    "FileSize": 28942729
   },
   {
     "MapName": "ze_surf_gypt_v1_3_1f",
