@@ -1155,6 +1155,11 @@
     "FileSize": 157047339
   },
   {
+    "MapName": "ze_labyrinth_escape_v5_sonaki",
+    "IsMoreThan150MB": false,
+    "FileSize": 40143370
+  },
+  {
     "MapName": "ze_laserheaven_csgo2",
     "IsMoreThan150MB": false,
     "FileSize": 141739336
@@ -2125,9 +2130,9 @@
     "FileSize": 64771325
   },
   {
-    "MapName": "ze_surf_vortex_v2_6",
+    "MapName": "ze_surf_vortex_v2_8",
     "IsMoreThan150MB": false,
-    "FileSize": 50013886
+    "FileSize": 45105033
   },
   {
     "MapName": "ze_survivors_p2",
