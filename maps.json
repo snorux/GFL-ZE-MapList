@@ -2230,6 +2230,11 @@
     "FileSize": 19671391
   },
   {
+    "MapName": "ze_titanic_cqd_g1",
+    "IsMoreThan150MB": false,
+    "FileSize": 33946895
+  },
+  {
     "MapName": "ze_titanic_escape_p2",
     "IsMoreThan150MB": false,
     "FileSize": 24109040
