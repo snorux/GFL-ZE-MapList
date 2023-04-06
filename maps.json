@@ -1285,6 +1285,11 @@
     "FileSize": 12213316
   },
   {
+    "MapName": "ze_magmadrake_b5",
+    "IsMoreThan150MB": false,
+    "FileSize": 58230308
+  },
+  {
     "MapName": "ze_mapeadores_museum_v1",
     "IsMoreThan150MB": false,
     "FileSize": 153404731
