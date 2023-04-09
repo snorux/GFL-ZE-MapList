@@ -460,9 +460,9 @@
     "FileSize": 156487681
   },
   {
-    "MapName": "ze_deadcore_k2",
+    "MapName": "ze_deadcore_k3",
     "IsMoreThan150MB": false,
-    "FileSize": 121102556
+    "FileSize": 125507768
   },
   {
     "MapName": "ze_dear_v1",
@@ -613,6 +613,11 @@
     "MapName": "ze_escape_the_eye_p3",
     "IsMoreThan150MB": false,
     "FileSize": 37049825
+  },
+  {
+    "MapName": "ze_escape_together_vb1a",
+    "IsMoreThan150MB": false,
+    "FileSize": 98332328
   },
   {
     "MapName": "ze_escapetheworld_a33",
