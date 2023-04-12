@@ -205,11 +205,6 @@
     "FileSize": 109800099
   },
   {
-    "MapName": "ze_best_korea_v1",
-    "IsMoreThan150MB": false,
-    "FileSize": 153612415
-  },
-  {
     "MapName": "ze_Bible_Adventure_OT_v1_5",
     "IsMoreThan150MB": false,
     "FileSize": 117839468
@@ -375,11 +370,6 @@
     "FileSize": 139409028
   },
   {
-    "MapName": "ze_collective_v1_9",
-    "IsMoreThan150MB": false,
-    "FileSize": 154586008
-  },
-  {
     "MapName": "ze_colorlicouspilar_p4",
     "IsMoreThan150MB": false,
     "FileSize": 11335522
@@ -408,11 +398,6 @@
     "MapName": "ze_crazy_escape_v6_1",
     "IsMoreThan150MB": false,
     "FileSize": 154855126
-  },
-  {
-    "MapName": "ze_crazykart_v4",
-    "IsMoreThan150MB": false,
-    "FileSize": 152457061
   },
   {
     "MapName": "ze_crypt_v1_4",
@@ -628,11 +613,6 @@
     "MapName": "ze_eschaton_a3_1",
     "IsMoreThan150MB": false,
     "FileSize": 86979736
-  },
-  {
-    "MapName": "ze_eternal_grove_v3",
-    "IsMoreThan150MB": false,
-    "FileSize": 153092015
   },
   {
     "MapName": "ze_eternal_journey_go_v1_4t11",
@@ -1290,11 +1270,6 @@
     "FileSize": 12213316
   },
   {
-    "MapName": "ze_magmadrake_b5",
-    "IsMoreThan150MB": false,
-    "FileSize": 58230308
-  },
-  {
     "MapName": "ze_mapeadores_museum_v1",
     "IsMoreThan150MB": false,
     "FileSize": 153404731
@@ -1663,11 +1638,6 @@
     "MapName": "ze_pitchblack_p2",
     "IsMoreThan150MB": false,
     "FileSize": 44698851
-  },
-  {
-    "MapName": "ze_pizzatime_v9",
-    "IsMoreThan150MB": false,
-    "FileSize": 129137915
   },
   {
     "MapName": "ze_pkmn_adventure_v7_2r_final",
