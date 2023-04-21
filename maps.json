@@ -1205,6 +1205,11 @@
     "FileSize": 91276841
   },
   {
+    "MapName": "ze_little_trip_k1",
+    "IsMoreThan150MB": false,
+    "FileSize": 54093952
+  },
+  {
     "MapName": "ze_lorem_ipsum_a1",
     "IsMoreThan150MB": false,
     "FileSize": 18600786
