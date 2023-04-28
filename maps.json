@@ -615,9 +615,9 @@
     "FileSize": 37049825
   },
   {
-    "MapName": "ze_escape_together_vb1a",
+    "MapName": "ze_escape_together_v1_xx",
     "IsMoreThan150MB": false,
-    "FileSize": 98332328
+    "FileSize": 102082803
   },
   {
     "MapName": "ze_escapetheworld_a33",
@@ -963,6 +963,11 @@
     "MapName": "ze_hsc_a4_q3",
     "IsMoreThan150MB": false,
     "FileSize": 97525596
+  },
+  {
+    "MapName": "ze_huggy_wuggy_chap4_halloween_rus4",
+    "IsMoreThan150MB": false,
+    "FileSize": 156309388
   },
   {
     "MapName": "ze_hydroponic_garden_v1_1",
