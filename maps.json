@@ -1200,6 +1200,11 @@
     "FileSize": 101188199
   },
   {
+    "MapName": "ze_light_shadow_L1_4",
+    "IsMoreThan150MB": false,
+    "FileSize": 124351645
+  },
+  {
     "MapName": "ze_light_v7_csgo_tk13_v5_2fix",
     "IsMoreThan150MB": false,
     "FileSize": 63925152
