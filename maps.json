@@ -50,6 +50,11 @@
     "FileSize": 82705370
   },
   {
+    "MapName": "ze_AAA_oh_final_final",
+    "IsMoreThan150MB": false,
+    "FileSize": 34565748
+  },
+  {
     "MapName": "ze_abandoned_industry_va2",
     "IsMoreThan150MB": false,
     "FileSize": 70990238
@@ -525,6 +530,11 @@
     "FileSize": 151026913
   },
   {
+    "MapName": "ze_djinn_go1",
+    "IsMoreThan150MB": false,
+    "FileSize": 141620312
+  },
+  {
     "MapName": "ze_DOOM_p2",
     "IsMoreThan150MB": false,
     "FileSize": 42270786
@@ -683,6 +693,11 @@
     "MapName": "ze_ffuxx_demon_naramina_a2",
     "IsMoreThan150MB": false,
     "FileSize": 104904864
+  },
+  {
+    "MapName": "ze_ffvii_boku_no_pico_v1_b2",
+    "IsMoreThan150MB": false,
+    "FileSize": 154101661
   },
   {
     "MapName": "ze_FFVII_Cosmo_Canyon_v5k_fix",
@@ -2403,6 +2418,11 @@
     "MapName": "ze_voodoo_islands_p5",
     "IsMoreThan150MB": false,
     "FileSize": 27809032
+  },
+  {
+    "MapName": "ze_water_temple_v1_5",
+    "IsMoreThan150MB": false,
+    "FileSize": 126944481
   },
   {
     "MapName": "ze_winter_warehouse_p",
