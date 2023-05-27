@@ -50,6 +50,11 @@
     "FileSize": 82705370
   },
   {
+    "MapName": "ze_AAA_santartika_baseum_v2_1",
+    "IsMoreThan150MB": false,
+    "FileSize": 147173676
+  },
+  {
     "MapName": "ze_abandoned_industry_va2",
     "IsMoreThan150MB": false,
     "FileSize": 70990238
@@ -543,6 +548,11 @@
     "MapName": "ze_draco_accidere_v4_final",
     "IsMoreThan150MB": false,
     "FileSize": 145686547
+  },
+  {
+    "MapName": "ze_dragonball_snakeway_neox2",
+    "IsMoreThan150MB": false,
+    "FileSize": 88449388
   },
   {
     "MapName": "ze_dreamin_v3_3",
