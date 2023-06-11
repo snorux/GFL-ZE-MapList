@@ -170,9 +170,9 @@
     "FileSize": 93521134
   },
   {
-    "MapName": "ze_ATIX_panic_b3t_p",
+    "MapName": "ze_ATIX_panic_b3t_p3",
     "IsMoreThan150MB": false,
-    "FileSize": 26214556
+    "FileSize": 26780629
   },
   {
     "MapName": "ze_atix_panic_v1",
@@ -623,6 +623,11 @@
     "MapName": "ze_escape_horizon_p3",
     "IsMoreThan150MB": false,
     "FileSize": 68156555
+  },
+  {
+    "MapName": "ze_escape_origine_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 32104516
   },
   {
     "MapName": "ze_escape_stroggos_p2",
@@ -1940,9 +1945,9 @@
     "FileSize": 53706866
   },
   {
-    "MapName": "ze_sc_turtles_v5_p2",
+    "MapName": "ze_sc_turtles_v5_p3",
     "IsMoreThan150MB": false,
-    "FileSize": 20859503
+    "FileSize": 19367992
   },
   {
     "MapName": "ze_schizophrenic_c3",
@@ -2045,9 +2050,9 @@
     "FileSize": 42427014
   },
   {
-    "MapName": "ze_skygarden_v2_1",
+    "MapName": "ze_skygarden_v2_3",
     "IsMoreThan150MB": false,
-    "FileSize": 153796057
+    "FileSize": 140126646
   },
   {
     "MapName": "ze_Skyscraper_city_r2",
