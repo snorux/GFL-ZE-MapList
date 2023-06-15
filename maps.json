@@ -1520,9 +1520,9 @@
     "FileSize": 28898436
   },
   {
-    "MapName": "ze_no_name_v1_6",
+    "MapName": "ze_no_name_v2_3",
     "IsMoreThan150MB": false,
-    "FileSize": 33660716
+    "FileSize": 56975455
   },
   {
     "MapName": "ze_no_title_v2_5",
@@ -2445,9 +2445,9 @@
     "FileSize": 126944481
   },
   {
-    "MapName": "ze_winter_warehouse_p",
+    "MapName": "ze_winter_warehouse_p2",
     "IsMoreThan150MB": false,
-    "FileSize": 7591275
+    "FileSize": 9378944
   },
   {
     "MapName": "ze_world_escapes_v1",
