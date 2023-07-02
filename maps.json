@@ -2420,6 +2420,11 @@
     "FileSize": 76021504
   },
   {
+    "MapName": "ze_verdant_k",
+    "IsMoreThan150MB": false,
+    "FileSize": 142597460
+  },
+  {
     "MapName": "ze_vietnam_p3",
     "IsMoreThan150MB": false,
     "FileSize": 40984685
