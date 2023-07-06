@@ -245,6 +245,11 @@
     "FileSize": 110401716
   },
   {
+    "MapName": "ze_bioluminescent_k1",
+    "IsMoreThan150MB": false,
+    "FileSize": 148534636
+  },
+  {
     "MapName": "ze_bioshock_v6_2_csgo7",
     "IsMoreThan150MB": false,
     "FileSize": 155649344
@@ -2220,9 +2225,9 @@
     "FileSize": 156814780
   },
   {
-    "MapName": "ze_tenkinoko_welkin_v1_6f",
+    "MapName": "ze_tenkinoko_welkin_v1_7f",
     "IsMoreThan150MB": false,
-    "FileSize": 151416211
+    "FileSize": 150412278
   },
   {
     "MapName": "ze_tesv_skyrim_v5_6",
