@@ -1380,9 +1380,9 @@
     "FileSize": 150632508
   },
   {
-    "MapName": "ze_mgden_v2_5fix",
+    "MapName": "ze_mgden_y3_fix",
     "IsMoreThan150MB": false,
-    "FileSize": 77890566
+    "FileSize": 94182390
   },
   {
     "MapName": "ze_military_escape_p4",
@@ -2435,9 +2435,9 @@
     "FileSize": 40984685
   },
   {
-    "MapName": "ze_visualizer_v1_2",
+    "MapName": "ze_visualizer_v2_1",
     "IsMoreThan150MB": false,
-    "FileSize": 128969084
+    "FileSize": 129285588
   },
   {
     "MapName": "ze_volcano_escape_p2",
