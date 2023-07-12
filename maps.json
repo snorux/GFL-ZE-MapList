@@ -1145,6 +1145,11 @@
     "FileSize": 116294298
   },
   {
+    "MapName": "ze_jump_king_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 137578917
+  },
+  {
     "MapName": "ze_JurassicPark_Escape_p2",
     "IsMoreThan150MB": false,
     "FileSize": 35965427
@@ -2178,6 +2183,11 @@
     "MapName": "ze_surf_gypt_v1_3_1f",
     "IsMoreThan150MB": false,
     "FileSize": 42453688
+  },
+  {
+    "MapName": "ze_surf_happy_2_newbie_village_v3",
+    "IsMoreThan150MB": false,
+    "FileSize": 152735448
   },
   {
     "MapName": "ze_surf_happy_b7",
