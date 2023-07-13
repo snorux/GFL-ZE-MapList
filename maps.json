@@ -155,6 +155,11 @@
     "FileSize": 99528516
   },
   {
+    "MapName": "ze_asd_v2",
+    "IsMoreThan150MB": false,
+    "FileSize": 11867156
+  },
+  {
     "MapName": "ze_ashen_keep_p",
     "IsMoreThan150MB": false,
     "FileSize": 147440199
@@ -183,6 +188,11 @@
     "MapName": "ze_atos_v2_3",
     "IsMoreThan150MB": false,
     "FileSize": 146792009
+  },
+  {
+    "MapName": "ze_Aurora_tower_v6_6",
+    "IsMoreThan150MB": false,
+    "FileSize": 151192404
   },
   {
     "MapName": "ze_aztec_temple_p",
@@ -1808,6 +1818,11 @@
     "MapName": "ze_raccoon_facility_v6b_p",
     "IsMoreThan150MB": false,
     "FileSize": 25555923
+  },
+  {
+    "MapName": "ze_radio_building_v1_3",
+    "IsMoreThan150MB": false,
+    "FileSize": 95887927
   },
   {
     "MapName": "ze_rainbow_factory_v2",
