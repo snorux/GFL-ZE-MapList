@@ -30,6 +30,11 @@
     "FileSize": 119400078
   },
   {
+    "MapName": "ze_2049_v1_1",
+    "IsMoreThan150MB": false,
+    "FileSize": 155797516
+  },
+  {
     "MapName": "ze_30_seconds__b21_p2",
     "IsMoreThan150MB": false,
     "FileSize": 24571406
@@ -100,9 +105,9 @@
     "FileSize": 153559051
   },
   {
-    "MapName": "ze_Ancient_wrath_r4",
+    "MapName": "ze_ancient_wrath_v2_test27_m5",
     "IsMoreThan150MB": false,
-    "FileSize": 129362862
+    "FileSize": 153217006
   },
   {
     "MapName": "ze_antartika_p3",
@@ -1008,6 +1013,11 @@
     "MapName": "ze_hsc_a4_q3",
     "IsMoreThan150MB": false,
     "FileSize": 97525596
+  },
+  {
+    "MapName": "ze_huge_labo_escape_b1_3",
+    "IsMoreThan150MB": false,
+    "FileSize": 56862933
   },
   {
     "MapName": "ze_huggy_wuggy_chap4_halloween_rus4",
