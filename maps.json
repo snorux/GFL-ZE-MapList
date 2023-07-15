@@ -210,6 +210,11 @@
     "FileSize": 29650258
   },
   {
+    "MapName": "ze_aztecorum_hc1",
+    "IsMoreThan150MB": false,
+    "FileSize": 112760827
+  },
+  {
     "MapName": "ze_babylon_v1",
     "IsMoreThan150MB": false,
     "FileSize": 19873294
@@ -1718,6 +1723,11 @@
     "MapName": "ze_pd2_crime_art_v2",
     "IsMoreThan150MB": false,
     "FileSize": 46929865
+  },
+  {
+    "MapName": "ze_percocet_v5f",
+    "IsMoreThan150MB": false,
+    "FileSize": 24966052
   },
   {
     "MapName": "ze_phantasy_escape_p3",
