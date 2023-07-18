@@ -55,6 +55,11 @@
     "FileSize": 82705370
   },
   {
+    "MapName": "ze_aaa_grand_line_x",
+    "IsMoreThan150MB": false,
+    "FileSize": 157191948
+  },
+  {
     "MapName": "ze_AAA_oh_final_Final_FINAL",
     "IsMoreThan150MB": false,
     "FileSize": 33174404
@@ -195,6 +200,11 @@
     "FileSize": 146792009
   },
   {
+    "MapName": "ze_Aurora_tower_v6_6",
+    "IsMoreThan150MB": false,
+    "FileSize": 151192404
+  },
+  {
     "MapName": "ze_aztec_temple_p",
     "IsMoreThan150MB": false,
     "FileSize": 27670623
@@ -308,6 +318,11 @@
     "MapName": "ze_BoatEscapeX_b8",
     "IsMoreThan150MB": false,
     "FileSize": 99595499
+  },
+  {
+    "MapName": "ze_border_b2_fix",
+    "IsMoreThan150MB": false,
+    "FileSize": 152539448
   },
   {
     "MapName": "ze_boredom_p",
