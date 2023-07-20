@@ -2440,6 +2440,11 @@
     "FileSize": 122327592
   },
   {
+    "MapName": "ze_undead_shrine_b1_2",
+    "IsMoreThan150MB": false,
+    "FileSize": 136753428
+  },
+  {
     "MapName": "ze_underground_escape_p",
     "IsMoreThan150MB": false,
     "FileSize": 26512677
