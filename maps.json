@@ -115,6 +115,11 @@
     "FileSize": 153217006
   },
   {
+    "MapName": "ze_animu_v2_final",
+    "IsMoreThan150MB": false,
+    "FileSize": 144374640
+  },
+  {
     "MapName": "ze_antartika_p3",
     "IsMoreThan150MB": false,
     "FileSize": 150590520
@@ -1185,9 +1190,9 @@
     "FileSize": 116294298
   },
   {
-    "MapName": "ze_jump_king_p2",
+    "MapName": "ze_jump_king_p3",
     "IsMoreThan150MB": false,
-    "FileSize": 137578917
+    "FileSize": 137749001
   },
   {
     "MapName": "ze_JurassicPark_Escape_p2",
@@ -1258,6 +1263,11 @@
     "MapName": "ze_Last_Man_Standing_p3",
     "IsMoreThan150MB": false,
     "FileSize": 156341148
+  },
+  {
+    "MapName": "ze_lego_m1",
+    "IsMoreThan150MB": false,
+    "FileSize": 129001508
   },
   {
     "MapName": "ze_legoland_crackheads_p2",
