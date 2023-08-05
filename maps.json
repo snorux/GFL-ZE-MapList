@@ -210,6 +210,11 @@
     "FileSize": 151192404
   },
   {
+    "MapName": "ze_aware_v1_2a",
+    "IsMoreThan150MB": false,
+    "FileSize": 95136581
+  },
+  {
     "MapName": "ze_aztec_temple_p",
     "IsMoreThan150MB": false,
     "FileSize": 27670623
@@ -730,6 +735,11 @@
     "FileSize": 83063993
   },
   {
+    "MapName": "ze_fapescape_katrina_v1_7",
+    "IsMoreThan150MB": false,
+    "FileSize": 146756730
+  },
+  {
     "MapName": "ze_fapescape_p5",
     "IsMoreThan150MB": false,
     "FileSize": 98008072
@@ -873,6 +883,11 @@
     "MapName": "ze_forgotten_facility_p3",
     "IsMoreThan150MB": false,
     "FileSize": 31214442
+  },
+  {
+    "MapName": "ze_forhidden_slicoo_v5",
+    "IsMoreThan150MB": false,
+    "FileSize": 153476504
   },
   {
     "MapName": "ze_FORiUS_just_RUN_p2",
@@ -2558,6 +2573,11 @@
     "MapName": "ze_yurilnier_beta007_hdr",
     "IsMoreThan150MB": false,
     "FileSize": 93050041
+  },
+  {
+    "MapName": "ze_zertinan_v1_4",
+    "IsMoreThan150MB": false,
+    "FileSize": 157047633
   },
   {
     "MapName": "ze_zk_mall_of_zombies_p2",
