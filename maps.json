@@ -255,6 +255,11 @@
     "FileSize": 153612415
   },
   {
+    "MapName": "ze_beyond_the_boundary_v1_5",
+    "IsMoreThan150MB": false,
+    "FileSize": 112020434
+  },
+  {
     "MapName": "ze_Bible_Adventure_OT_v1_5",
     "IsMoreThan150MB": false,
     "FileSize": 117839468
