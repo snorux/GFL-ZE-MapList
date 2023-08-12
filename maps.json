@@ -15,6 +15,11 @@
     "FileSize": 227565348
   },
   {
+    "MapName": "ze__hell",
+    "IsMoreThan150MB": false,
+    "FileSize": 5121572
+  },
+  {
     "MapName": "ze_20_seconds_v6",
     "IsMoreThan150MB": false,
     "FileSize": 13707441
@@ -208,6 +213,11 @@
     "MapName": "ze_Aurora_tower_v6_6",
     "IsMoreThan150MB": false,
     "FileSize": 151192404
+  },
+  {
+    "MapName": "ze_avalanche_reboot_k1",
+    "IsMoreThan150MB": false,
+    "FileSize": 152146548
   },
   {
     "MapName": "ze_aware_v1_2a",
@@ -1210,6 +1220,11 @@
     "FileSize": 116294298
   },
   {
+    "MapName": "ze_jp_stalactite_cg9bu4mr2er7_beta4",
+    "IsMoreThan150MB": false,
+    "FileSize": 96141595
+  },
+  {
     "MapName": "ze_jump_king_p3",
     "IsMoreThan150MB": false,
     "FileSize": 137749001
@@ -1373,6 +1388,11 @@
     "MapName": "ze_LOTR_Mount_Doom_p3",
     "IsMoreThan150MB": false,
     "FileSize": 76321470
+  },
+  {
+    "MapName": "ze_luciddreams_csgo3",
+    "IsMoreThan150MB": false,
+    "FileSize": 134402568
   },
   {
     "MapName": "ze_luck_matters_v3_1",
@@ -1875,6 +1895,11 @@
     "FileSize": 51747286
   },
   {
+    "MapName": "ze_qaz_defend_part2_ji1mm1_beta3",
+    "IsMoreThan150MB": false,
+    "FileSize": 18871499
+  },
+  {
     "MapName": "ze_rabanastre_royal_t5",
     "IsMoreThan150MB": false,
     "FileSize": 115703172
@@ -2335,6 +2360,11 @@
     "FileSize": 258773243
   },
   {
+    "MapName": "ze_tetris_daydream_p2",
+    "IsMoreThan150MB": false,
+    "FileSize": 68659429
+  },
+  {
     "MapName": "ze_the_curse_of_blackwater_v6b",
     "IsMoreThan150MB": false,
     "FileSize": 131453581
@@ -2553,6 +2583,11 @@
     "MapName": "ze_voodoo_islands_p5",
     "IsMoreThan150MB": false,
     "FileSize": 27809032
+  },
+  {
+    "MapName": "ze_watagi_tunnel_v2_1",
+    "IsMoreThan150MB": false,
+    "FileSize": 86678566
   },
   {
     "MapName": "ze_water_temple_v1_5",
