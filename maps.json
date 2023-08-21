@@ -245,6 +245,11 @@
     "FileSize": 19873294
   },
   {
+    "MapName": "ze_backrooms_deathbed_t1f",
+    "IsMoreThan150MB": false,
+    "FileSize": 131471029
+  },
+  {
     "MapName": "ze_backrooms_p3",
     "IsMoreThan150MB": false,
     "FileSize": 75633629
@@ -908,6 +913,11 @@
     "MapName": "ze_forsaken_temple_v3_b5",
     "IsMoreThan150MB": false,
     "FileSize": 136802368
+  },
+  {
+    "MapName": "ze_fragment_ops_v2_7_fix",
+    "IsMoreThan150MB": false,
+    "FileSize": 86092538
   },
   {
     "MapName": "ze_frostdrake_tower_v1",
@@ -1735,6 +1745,11 @@
     "FileSize": 63067571
   },
   {
+    "MapName": "ze_palace_of_minolila_v1",
+    "IsMoreThan150MB": false,
+    "FileSize": 151402676
+  },
+  {
     "MapName": "ze_pallaroid_rage_v1",
     "IsMoreThan150MB": false,
     "FileSize": 66208586
@@ -1960,9 +1975,9 @@
     "FileSize": 79643104
   },
   {
-    "MapName": "ze_retro_cow_v1",
+    "MapName": "ze_retro_cow_v1_1",
     "IsMoreThan150MB": false,
-    "FileSize": 139508775
+    "FileSize": 141942904
   },
   {
     "MapName": "ze_rev_a6_3",
