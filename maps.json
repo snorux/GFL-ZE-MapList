@@ -680,6 +680,11 @@
     "FileSize": 102692082
   },
   {
+    "MapName": "ze_endless_dream_v1_2",
+    "IsMoreThan150MB": false,
+    "FileSize": 120906717
+  },
+  {
     "MapName": "ze_epic_escape_v2_1",
     "IsMoreThan150MB": false,
     "FileSize": 44612864
@@ -1298,6 +1303,11 @@
     "MapName": "ze_laserheaven_csgo2",
     "IsMoreThan150MB": false,
     "FileSize": 141739336
+  },
+  {
+    "MapName": "ze_Last_Man_Standing_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 156341148
   },
   {
     "MapName": "ze_lego_m1",
@@ -2173,6 +2183,11 @@
     "MapName": "ze_silent_hill_blackblood_f6",
     "IsMoreThan150MB": false,
     "FileSize": 152726987
+  },
+  {
+    "MapName": "ze_sisyphus_v1",
+    "IsMoreThan150MB": false,
+    "FileSize": 150098992
   },
   {
     "MapName": "ze_skill_escape_v09",
