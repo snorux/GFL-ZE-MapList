@@ -60,9 +60,9 @@
     "FileSize": 82705370
   },
   {
-    "MapName": "ze_aaa_grand_line_x",
+    "MapName": "ze_aaa_grand_line_x3",
     "IsMoreThan150MB": false,
-    "FileSize": 157191948
+    "FileSize": 157268036
   },
   {
     "MapName": "ze_AAA_oh_final_Final_FINAL",
@@ -1218,6 +1218,11 @@
     "MapName": "ze_jjba_v7",
     "IsMoreThan150MB": false,
     "FileSize": 150344248
+  },
+  {
+    "MapName": "ze_jjomulwon_v1_1",
+    "IsMoreThan150MB": false,
+    "FileSize": 82715221
   },
   {
     "MapName": "ze_johnny_nukem_go_b8_3a",
