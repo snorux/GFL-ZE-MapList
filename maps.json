@@ -165,6 +165,11 @@
     "FileSize": 21372928
   },
   {
+    "MapName": "ze_Arcana_Heart_v1_5",
+    "IsMoreThan150MB": false,
+    "FileSize": 139181177
+  },
+  {
     "MapName": "ze_arctic_escape_p2",
     "IsMoreThan150MB": false,
     "FileSize": 43570085
