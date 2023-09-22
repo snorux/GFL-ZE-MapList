@@ -285,6 +285,11 @@
     "FileSize": 91028382
   },
   {
+    "MapName": "ze_binary_z4_1",
+    "IsMoreThan150MB": false,
+    "FileSize": 145070066
+  },
+  {
     "MapName": "ze_biohazard_manor_004_p4",
     "IsMoreThan150MB": false,
     "FileSize": 135625284
@@ -480,6 +485,11 @@
     "FileSize": 124456623
   },
   {
+    "MapName": "ze_crazy_christmas_v1_1",
+    "IsMoreThan150MB": false,
+    "FileSize": 136689904
+  },
+  {
     "MapName": "ze_crazy_escape_v6_1",
     "IsMoreThan150MB": false,
     "FileSize": 154855126
@@ -523,6 +533,11 @@
     "MapName": "ze_cyberpunk_x_a07",
     "IsMoreThan150MB": false,
     "FileSize": 152580024
+  },
+  {
+    "MapName": "ze_Cyberspace_v1",
+    "IsMoreThan150MB": false,
+    "FileSize": 50489385
   },
   {
     "MapName": "ze_dangerous_waters_v2_Final",
@@ -598,6 +613,11 @@
     "MapName": "ze_diddle_v3",
     "IsMoreThan150MB": false,
     "FileSize": 151026913
+  },
+  {
+    "MapName": "ze_diverted_destiny_c2f3",
+    "IsMoreThan150MB": false,
+    "FileSize": 113985759
   },
   {
     "MapName": "ze_djinn_go1",
@@ -1010,9 +1030,9 @@
     "FileSize": 142227828
   },
   {
-    "MapName": "ze_halo_ce_p1_b16",
+    "MapName": "ze_halo_ce_p1_c7",
     "IsMoreThan150MB": false,
-    "FileSize": 87319764
+    "FileSize": 156292650
   },
   {
     "MapName": "ze_halo_p3",
@@ -1423,6 +1443,11 @@
     "MapName": "ze_LuigisMansion_p3",
     "IsMoreThan150MB": false,
     "FileSize": 74030386
+  },
+  {
+    "MapName": "ze_lux_umbra_v1_4",
+    "IsMoreThan150MB": false,
+    "FileSize": 156688965
   },
   {
     "MapName": "ze_m0w0m_csgo1",
