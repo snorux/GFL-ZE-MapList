@@ -305,6 +305,11 @@
     "FileSize": 110401716
   },
   {
+    "MapName": "ze_biohazard3_nemesis_b6_2",
+    "IsMoreThan150MB": false,
+    "FileSize": 117444284
+  },
+  {
     "MapName": "ze_bioluminescent_k1",
     "IsMoreThan150MB": false,
     "FileSize": 148534636
@@ -903,6 +908,11 @@
     "MapName": "ze_flex_b4",
     "IsMoreThan150MB": false,
     "FileSize": 54319705
+  },
+  {
+    "MapName": "ze_flowering_b10",
+    "IsMoreThan150MB": false,
+    "FileSize": 124044506
   },
   {
     "MapName": "ze_flying_world_p",
@@ -2070,6 +2080,11 @@
     "FileSize": 132024735
   },
   {
+    "MapName": "ze_runaway_roofside1_k1",
+    "IsMoreThan150MB": false,
+    "FileSize": 57913608
+  },
+  {
     "MapName": "ze_rush_B_v2_2",
     "IsMoreThan150MB": false,
     "FileSize": 155248194
@@ -2363,6 +2378,11 @@
     "MapName": "ze_surf_shonyudo_v6_1_final_fix",
     "IsMoreThan150MB": false,
     "FileSize": 70120246
+  },
+  {
+    "MapName": "ze_surf_virtus_v1_1",
+    "IsMoreThan150MB": false,
+    "FileSize": 128676310
   },
   {
     "MapName": "ze_surf_vortex_v2_8",
