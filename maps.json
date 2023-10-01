@@ -505,6 +505,11 @@
     "FileSize": 152457061
   },
   {
+    "MapName": "ze_cruelty_squad_v1_12",
+    "IsMoreThan150MB": false,
+    "FileSize": 157174476
+  },
+  {
     "MapName": "ze_crypt_v1_4",
     "IsMoreThan150MB": false,
     "FileSize": 58467727
@@ -1338,6 +1343,11 @@
     "MapName": "ze_laserheaven_csgo2",
     "IsMoreThan150MB": false,
     "FileSize": 141739336
+  },
+  {
+    "MapName": "ze_Last_Man_Standing_p3",
+    "IsMoreThan150MB": false,
+    "FileSize": 156341148
   },
   {
     "MapName": "ze_lego_m1",
