@@ -2255,6 +2255,11 @@
     "FileSize": 38387650
   },
   {
+    "MapName": "ze_slackerino_mapperino_v4",
+    "IsMoreThan150MB": false,
+    "FileSize": 136853984
+  },
+  {
     "MapName": "ze_slender_escape_rc2",
     "IsMoreThan150MB": false,
     "FileSize": 150102032
